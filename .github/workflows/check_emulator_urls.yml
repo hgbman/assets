@@ -5,7 +5,6 @@ on:
     # 09:00 UTC = 06:00 Argentina (ART, UTC-3)
     - cron: '0 9 * * *'
   workflow_dispatch:
-    # Permite correrlo manualmente desde la pestaña Actions en cualquier momento
 
 jobs:
   check-urls:
@@ -29,7 +28,7 @@ jobs:
           import sys
 
           EMULATORS_JSON = "emulators.json"
-          TIMEOUT        = 20   # segundos por request
+          TIMEOUT        = 20
           BROKEN         = []
           OK             = []
 
@@ -37,9 +36,7 @@ jobs:
               data = json.load(f)
 
           token = os.environ.get("GH_TOKEN", "")
-          headers_base = {
-              "User-Agent": "HGB-URLChecker/1.0",
-          }
+          headers_base = {"User-Agent": "HGB-URLChecker/1.0"}
           if token:
               headers_base["Authorization"] = f"Bearer {token}"
 
@@ -55,32 +52,52 @@ jobs:
                           print(f"  OK  [{code}] {name}")
                           OK.append((name, url, code))
                       else:
-                          print(f"  ERR [{code}] {name}  →  {url}")
+                          print(f"  ERR [{code}] {name}  ->  {url}")
                           BROKEN.append((name, url, code))
               except urllib.error.HTTPError as e:
-                  print(f"  ERR [{e.code}] {name}  →  {url}")
+                  print(f"  ERR [{e.code}] {name}  ->  {url}")
                   BROKEN.append((name, url, e.code))
               except Exception as e:
-                  print(f"  ERR [---] {name}  →  {url}  ({e})")
+                  print(f"  ERR [---] {name}  ->  {url}  ({e})")
                   BROKEN.append((name, url, str(e)))
 
           print(f"\nResultado: {len(OK)} OK, {len(BROKEN)} con problemas")
 
-          # Escribir outputs para el paso siguiente
+          # Escribir lista de rotas en archivo para el paso de email
+          with open("/tmp/broken_urls.txt", "w") as f:
+              if BROKEN:
+                  for name, url, code in BROKEN:
+                      f.write(f"- {name}: [{code}] {url}\n")
+              else:
+                  f.write("")
+
+          # Escribir output
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               out.write(f"broken_count={len(BROKEN)}\n")
+              out.write(f"ok_count={len(OK)}\n")
 
           if BROKEN:
-              lines = []
-              for name, url, code in BROKEN:
-                  lines.append(f"- {name}: [{code}] {url}")
-              body = "\n".join(lines)
-              with open("/tmp/broken_urls.txt", "w") as f:
-                  f.write(body)
-              print("\n=== URLs con problemas ===")
-              print(body)
-              sys.exit(1)   # Marca el paso como fallido → activa la notificación
+              sys.exit(1)
           PYEOF
+
+      - name: Preparar cuerpo del email
+        if: failure() && steps.check.outcome == 'failure'
+        id: email_body
+        run: |
+          BROKEN_LIST=$(cat /tmp/broken_urls.txt 2>/dev/null || echo "Ver log del workflow para detalles.")
+          COUNT=$(grep -c "^-" /tmp/broken_urls.txt 2>/dev/null || echo "?")
+          {
+            echo "body<<EMAIL_BODY_EOF"
+            echo "Se detectaron URLs con problemas en el emulators.json."
+            echo ""
+            echo "${COUNT} URL(s) fallaron:"
+            echo ""
+            echo "${BROKEN_LIST}"
+            echo ""
+            echo "Ver el log completo en:"
+            echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo "EMAIL_BODY_EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Enviar email si hay URLs rotas
         if: failure() && steps.check.outcome == 'failure'
@@ -91,24 +108,21 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "⚠️ HGB — URLs de emuladores rotas (${{ github.run_id }})"
+          subject: "âš ï¸ HGB â€” URLs de emuladores rotas (${{ github.run_id }})"
           to: millansoft@gmail.com
           from: "HGB Monitor <${{ secrets.MAIL_USERNAME }}>"
-          body: |
-            Se detectaron URLs con problemas en el emulators.json.
-
-            ${{ steps.check.outputs.broken_count }} URL(s) fallaron:
-
-            $(cat /tmp/broken_urls.txt 2>/dev/null || echo "Ver log del workflow para detalles.")
-
-            Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/run/${{ github.run_id }}
+          body: ${{ steps.email_body.outputs.body }}
 
       - name: Resumen en el workflow
         if: always()
         run: |
-          echo "### Resultado de verificación de URLs" >> $GITHUB_STEP_SUMMARY
+          echo "### Resultado de verificaciÃ³n de URLs" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.check.outcome }}" = "success" ]; then
-            echo "✅ Todas las URLs responden correctamente." >> $GITHUB_STEP_SUMMARY
+            echo "âœ… Todas las URLs responden correctamente." >> $GITHUB_STEP_SUMMARY
           else
-            echo "❌ Hay URLs con problemas. Revisar el log o el email enviado a millansoft@gmail.com" >> $GITHUB_STEP_SUMMARY
+            echo "âŒ Hay URLs con problemas. Revisar el log o el email enviado a millansoft@gmail.com" >> $GITHUB_STEP_SUMMARY
+            if [ -f /tmp/broken_urls.txt ]; then
+              echo "" >> $GITHUB_STEP_SUMMARY
+              cat /tmp/broken_urls.txt >> $GITHUB_STEP_SUMMARY
+            fi
           fi
