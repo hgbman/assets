@@ -1,0 +1,2273 @@
+[
+  {
+    "name": "altirra",
+    "display_name": "Altirra",
+    "systems": [
+      "Atari 8-bits",
+      "Atari XL/XE",
+      "Atari 5200"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/Altirra.zip",
+    "filename": "Altirra.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/altirra-logo.png",
+    "notes": {
+      "es": "Emulador de Atari 8-bits / Atari XL/XE / Atari 5200.",
+      "en": "Atari 8-bits / Atari XL/XE / Atari 5200 emulator.",
+      "pt": "Emulador de Atari 8-bits / Atari XL/XE / Atari 5200.",
+      "de": "Atari 8-bits / Atari XL/XE / Atari 5200-Emulator.",
+      "fr": "Émulateur Atari 8-bits / Atari XL/XE / Atari 5200.",
+      "it": "Emulatore Atari 8-bits / Atari XL/XE / Atari 5200."
+    },
+    "sha256": "",
+    "homepage": "https://www.virtualdub.org/altirra.html"
+  },
+  {
+    "name": "applewin",
+    "display_name": "AppleWin",
+    "systems": [
+      "Apple II"
+    ],
+    "url": "https://github.com/AppleWin/AppleWin/releases/latest/download/applewin.zip",
+    "filename": "applewin.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/applewin-logo.png",
+    "notes": {
+      "es": "Emulador de Apple II.",
+      "en": "Apple II emulator.",
+      "pt": "Emulador de Apple II.",
+      "de": "Apple II-Emulator.",
+      "fr": "Émulateur Apple II.",
+      "it": "Emulatore Apple II."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/AppleWin/AppleWin"
+  },
+  {
+    "name": "AquaLite",
+    "display_name": "AquaLite",
+    "systems": [
+      "Mattel Aquarius"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/AquaLite.zip",
+    "filename": "AquaLite.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/aqualite-logo.png",
+    "notes": {
+      "es": "Emulador de Mattel Aquarius.",
+      "en": "Mattel Aquarius emulator.",
+      "pt": "Emulador de Mattel Aquarius.",
+      "de": "Mattel Aquarius-Emulator.",
+      "fr": "Émulateur Mattel Aquarius.",
+      "it": "Emulatore Mattel Aquarius."
+    },
+    "sha256": "",
+    "homepage": "https://aquarius.je/aqualite/"
+  },
+  {
+    "name": "ares",
+    "display_name": "ares",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo SNES",
+      "Nintendo 64",
+      "Sega Master System",
+      "Sega Mega Drive",
+      "Sega Saturn",
+      "Sony PlayStation",
+      "Neo Geo",
+      "Atari 2600",
+      "Nintendo Game Boy",
+      "Nintendo GBA",
+      "PC Engine"
+    ],
+    "url": "https://github.com/ares-emulator/ares/releases/latest/download/ares-windows-x86_64.zip",
+    "filename": "ares-windows-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ares-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
+      "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
+      "de": "Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
+      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine."
+    },
+    "sha256": "",
+    "homepage": "https://ares-emu.net"
+  },
+  {
+    "name": "azahar",
+    "display_name": "Azahar",
+    "systems": [
+      "Nintendo 3DS"
+    ],
+    "url": "https://github.com/azahar-emu/azahar/releases/latest/download/azahar-windows-msvc.zip",
+    "filename": "azahar-windows-msvc.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/azahar-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 3DS.",
+      "en": "Nintendo 3DS emulator.",
+      "pt": "Emulador de Nintendo 3DS.",
+      "de": "Nintendo 3DS-Emulator.",
+      "fr": "Émulateur Nintendo 3DS.",
+      "it": "Emulatore Nintendo 3DS."
+    },
+    "sha256": "",
+    "homepage": "https://azahar-emu.org"
+  },
+  {
+    "name": "beebem",
+    "display_name": "BeebEm",
+    "systems": [
+      "BBC Micro",
+      "BBC Master 128"
+    ],
+    "url": "https://github.com/stardot/beebem-windows/releases/latest/download/BeebEm.zip",
+    "filename": "BeebEm.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/beebem-logo.png",
+    "notes": {
+      "es": "Emulador de BBC Micro / BBC Master 128.",
+      "en": "BBC Micro / BBC Master 128 emulator.",
+      "pt": "Emulador de BBC Micro / BBC Master 128.",
+      "de": "BBC Micro / BBC Master 128-Emulator.",
+      "fr": "Émulateur BBC Micro / BBC Master 128.",
+      "it": "Emulatore BBC Micro / BBC Master 128."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/stardot/beebem-windows"
+  },
+  {
+    "name": "bgb",
+    "display_name": "BGB",
+    "systems": [
+      "Nintendo Game Boy",
+      "Nintendo Game Boy Color"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/bgb64.zip",
+    "filename": "bgb64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/bgb-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color.",
+      "en": "Nintendo Game Boy / Nintendo Game Boy Color emulator.",
+      "pt": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color.",
+      "de": "Nintendo Game Boy / Nintendo Game Boy Color-Emulator.",
+      "fr": "Émulateur Nintendo Game Boy / Nintendo Game Boy Color.",
+      "it": "Emulatore Nintendo Game Boy / Nintendo Game Boy Color."
+    },
+    "sha256": "",
+    "homepage": "https://bgb.bircd.org"
+  },
+  {
+    "name": "bigpemu",
+    "display_name": "BigPEmu",
+    "systems": [
+      "Atari Jaguar",
+      "Atari Jaguar CD"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/bigpemu-logo.png",
+    "notes": {
+      "es": "Emulador de Atari Jaguar / Atari Jaguar CD.",
+      "en": "Atari Jaguar / Atari Jaguar CD emulator.",
+      "pt": "Emulador de Atari Jaguar / Atari Jaguar CD.",
+      "de": "Atari Jaguar / Atari Jaguar CD-Emulator.",
+      "fr": "Émulateur Atari Jaguar / Atari Jaguar CD.",
+      "it": "Emulatore Atari Jaguar / Atari Jaguar CD."
+    },
+    "sha256": "",
+    "homepage": "https://www.richwhitehouse.com/jaguar/"
+  },
+  {
+    "name": "BizHawk",
+    "display_name": "BizHawk",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo SNES",
+      "Nintendo 64",
+      "Nintendo Game Boy",
+      "Nintendo GBA",
+      "Nintendo DS",
+      "Sega Master System",
+      "Sega Mega Drive",
+      "Sega Saturn",
+      "Sony PlayStation",
+      "PC Engine",
+      "Atari 2600",
+      "Atari 7800",
+      "Atari Lynx",
+      "Neo Geo Pocket",
+      "WonderSwan"
+    ],
+    "url": "https://github.com/TASEmulators/BizHawk/releases/latest/download/BizHawk-win-x64.zip",
+    "filename": "BizHawk-win-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/bizhawk-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
+      "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
+      "de": "Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
+      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan."
+    },
+    "sha256": "",
+    "homepage": "https://tasvideos.org/BizHawk"
+  },
+  {
+    "name": "bsnes",
+    "display_name": "bsnes-hd",
+    "systems": [
+      "Nintendo SNES",
+      "Nintendo Super Famicom"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/bsnes_hd_win.zip",
+    "filename": "bsnes_hd_win.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/bsnes-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
+      "en": "Nintendo SNES / Nintendo Super Famicom emulator.",
+      "pt": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
+      "de": "Nintendo SNES / Nintendo Super Famicom-Emulator.",
+      "fr": "Émulateur Nintendo SNES / Nintendo Super Famicom.",
+      "it": "Emulatore Nintendo SNES / Nintendo Super Famicom."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/DerKoun/bsnes-hd"
+  },
+  {
+    "name": "capriceforever",
+    "display_name": "Caprice Forever",
+    "systems": [
+      "Amstrad CPC"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/capriceforever-logo.png",
+    "notes": {
+      "es": "Emulador de Amstrad CPC.",
+      "en": "Amstrad CPC emulator.",
+      "pt": "Emulador de Amstrad CPC.",
+      "de": "Amstrad CPC-Emulator.",
+      "fr": "Émulateur Amstrad CPC.",
+      "it": "Emulatore Amstrad CPC."
+    },
+    "sha256": "",
+    "homepage": "https://www.cpc-power.com"
+  },
+  {
+    "name": "Cemu",
+    "display_name": "Cemu",
+    "systems": [
+      "Nintendo Wii U"
+    ],
+    "url": "https://github.com/cemu-project/Cemu/releases/latest/download/cemu-windows-x64.zip",
+    "filename": "cemu-windows-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/cemu-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Wii U.",
+      "en": "Nintendo Wii U emulator.",
+      "pt": "Emulador de Nintendo Wii U.",
+      "de": "Nintendo Wii U-Emulator.",
+      "fr": "Émulateur Nintendo Wii U.",
+      "it": "Emulatore Nintendo Wii U."
+    },
+    "sha256": "",
+    "strip_subfolder": true,
+    "homepage": "https://cemu.info"
+  },
+  {
+    "name": "cgenius",
+    "display_name": "Commander Genius",
+    "systems": [
+      "Commander Keen"
+    ],
+    "url": "https://github.com/gerstrong/Commander-Genius/releases/latest/download/CGenius-win64.zip",
+    "filename": "CGenius-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/cgenius.png",
+    "notes": {
+      "es": "Emulador de Commander Keen.",
+      "en": "Commander Keen emulator.",
+      "pt": "Emulador de Commander Keen.",
+      "de": "Commander Keen-Emulator.",
+      "fr": "Émulateur Commander Keen.",
+      "it": "Emulatore Commander Keen."
+    },
+    "sha256": "",
+    "homepage": "https://commander-genius.sourceforge.io"
+  },
+  {
+    "name": "citra",
+    "display_name": "Citra",
+    "systems": [
+      "Nintendo 3DS"
+    ],
+    "url": "https://github.com/PabloMK7/citra/releases/latest/download/citra-windows-msvc.zip",
+    "filename": "citra-windows-msvc.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/citra-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 3DS.",
+      "en": "Nintendo 3DS emulator.",
+      "pt": "Emulador de Nintendo 3DS.",
+      "de": "Nintendo 3DS-Emulator.",
+      "fr": "Émulateur Nintendo 3DS.",
+      "it": "Emulatore Nintendo 3DS."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/PabloMK7/citra"
+  },
+  {
+    "name": "citron",
+    "display_name": "Citron",
+    "systems": [
+      "Nintendo Switch"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/citron-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Switch.",
+      "en": "Nintendo Switch emulator.",
+      "pt": "Emulador de Nintendo Switch.",
+      "de": "Nintendo Switch-Emulator.",
+      "fr": "Émulateur Nintendo Switch.",
+      "it": "Emulatore Nintendo Switch."
+    },
+    "sha256": "",
+    "homepage": "https://git.citron-emu.org/Citron/Citron"
+  },
+  {
+    "name": "classic99",
+    "display_name": "Classic99",
+    "systems": [
+      "TI-99/4A"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/classic99-logo.png",
+    "notes": {
+      "es": "Emulador de TI-99/4A.",
+      "en": "TI-99/4A emulator.",
+      "pt": "Emulador de TI-99/4A.",
+      "de": "TI-99/4A-Emulator.",
+      "fr": "Émulateur TI-99/4A.",
+      "it": "Emulatore TI-99/4A."
+    },
+    "sha256": "",
+    "homepage": "https://www.harmlesslion.com/software/classic99"
+  },
+  {
+    "name": "cxbx-reloaded",
+    "display_name": "CxBx Reloaded",
+    "systems": [
+      "Microsoft Xbox",
+      "Sega Chihiro"
+    ],
+    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/latest/download/CxbxReloaded-Release-VS2022.zip",
+    "filename": "CxbxReloaded-Release-VS2022.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/cxbxr-logo.png",
+    "notes": {
+      "es": "Emulador de Microsoft Xbox / Sega Chihiro.",
+      "en": "Microsoft Xbox / Sega Chihiro emulator.",
+      "pt": "Emulador de Microsoft Xbox / Sega Chihiro.",
+      "de": "Microsoft Xbox / Sega Chihiro-Emulator.",
+      "fr": "Émulateur Microsoft Xbox / Sega Chihiro.",
+      "it": "Emulatore Microsoft Xbox / Sega Chihiro."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded"
+  },
+  {
+    "name": "daphne",
+    "display_name": "Daphne Loader",
+    "systems": [
+      "Laserdisc Arcade"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/daphne-logo.png",
+    "notes": {
+      "es": "Emulador de Laserdisc Arcade.",
+      "en": "Laserdisc Arcade emulator.",
+      "pt": "Emulador de Laserdisc Arcade.",
+      "de": "Laserdisc Arcade-Emulator.",
+      "fr": "Émulateur Laserdisc Arcade.",
+      "it": "Emulatore Laserdisc Arcade."
+    },
+    "sha256": "",
+    "homepage": "http://www.daphne-emu.com"
+  },
+  {
+    "name": "demul",
+    "display_name": "Demul",
+    "systems": [
+      "Sega Dreamcast",
+      "Sega NAOMI",
+      "Sega NAOMI 2",
+      "Sega Atomiswave",
+      "Sega Hikaru"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "none",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/demul-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru.",
+      "en": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru emulator.",
+      "pt": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru.",
+      "de": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru-Emulator.",
+      "fr": "Émulateur Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru.",
+      "it": "Emulatore Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru."
+    },
+    "sha256": "",
+    "homepage": "http://demul.emulation64.com"
+  },
+  {
+    "name": "desmume",
+    "display_name": "DeSmuME",
+    "systems": [
+      "Nintendo DS"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/DeSmuME_win64.zip",
+    "filename": "DeSmuME_win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/desmume-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo DS.",
+      "en": "Nintendo DS emulator.",
+      "pt": "Emulador de Nintendo DS.",
+      "de": "Nintendo DS-Emulator.",
+      "fr": "Émulateur Nintendo DS.",
+      "it": "Emulatore Nintendo DS."
+    },
+    "sha256": "",
+    "homepage": "https://desmume.org"
+  },
+  {
+    "name": "Dolphin-x64",
+    "display_name": "Dolphin",
+    "systems": [
+      "Nintendo GameCube",
+      "Nintendo Wii"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/dolphin-x64.7z",
+    "filename": "dolphin-x64.7z",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/dolphin-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo GameCube / Nintendo Wii.",
+      "en": "Nintendo GameCube / Nintendo Wii emulator.",
+      "pt": "Emulador de Nintendo GameCube / Nintendo Wii.",
+      "de": "Nintendo GameCube / Nintendo Wii-Emulator.",
+      "fr": "Émulateur Nintendo GameCube / Nintendo Wii.",
+      "it": "Emulatore Nintendo GameCube / Nintendo Wii."
+    },
+    "sha256": "",
+    "strip_subfolder": true,
+    "homepage": "https://dolphin-emu.org"
+  },
+  {
+    "name": "dosbox",
+    "display_name": "DOSBox Staging",
+    "systems": [
+      "MS-DOS",
+      "Windows 3.x",
+      "Windows 95"
+    ],
+    "url": "https://github.com/dosbox-staging/dosbox-staging/releases/latest/download/dosbox-staging-windows-x86_64-release.zip",
+    "filename": "dosbox-staging-windows-x86_64-release.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/dosbox-logo.png",
+    "notes": {
+      "es": "Emulador de MS-DOS / Windows 3.x / Windows 95.",
+      "en": "MS-DOS / Windows 3.x / Windows 95 emulator.",
+      "pt": "Emulador de MS-DOS / Windows 3.x / Windows 95.",
+      "de": "MS-DOS / Windows 3.x / Windows 95-Emulator.",
+      "fr": "Émulateur MS-DOS / Windows 3.x / Windows 95.",
+      "it": "Emulatore MS-DOS / Windows 3.x / Windows 95."
+    },
+    "sha256": "",
+    "homepage": "https://dosbox-staging.github.io"
+  },
+  {
+    "name": "DuckStation",
+    "display_name": "DuckStation",
+    "systems": [
+      "Sony PlayStation"
+    ],
+    "url": "https://github.com/stenzek/duckstation/releases/latest/download/duckstation-windows-x64-release.zip",
+    "filename": "duckstation-windows-x64-release.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/duckstation-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PlayStation.",
+      "en": "Sony PlayStation emulator.",
+      "pt": "Emulador de Sony PlayStation.",
+      "de": "Sony PlayStation-Emulator.",
+      "fr": "Émulateur Sony PlayStation.",
+      "it": "Emulatore Sony PlayStation."
+    },
+    "sha256": "",
+    "homepage": "https://www.duckstation.org"
+  },
+  {
+    "name": "eden",
+    "display_name": "Eden",
+    "systems": [
+      "Nintendo Switch"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/eden-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Switch.",
+      "en": "Nintendo Switch emulator.",
+      "pt": "Emulador de Nintendo Switch.",
+      "de": "Nintendo Switch-Emulator.",
+      "fr": "Émulateur Nintendo Switch.",
+      "it": "Emulatore Nintendo Switch."
+    },
+    "sha256": "",
+    "homepage": "https://git.eden-emu.dev/eden-emu/eden"
+  },
+  {
+    "name": "eka2l1",
+    "display_name": "EKA2L1",
+    "systems": [
+      "Nokia N-Gage",
+      "Symbian OS"
+    ],
+    "url": "https://github.com/EKA2L1/EKA2L1/releases/latest/download/EKA2L1_windows_x64.zip",
+    "filename": "EKA2L1_windows_x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/eka2l1-logo.png",
+    "notes": {
+      "es": "Emulador de Nokia N-Gage / Symbian OS.",
+      "en": "Nokia N-Gage / Symbian OS emulator.",
+      "pt": "Emulador de Nokia N-Gage / Symbian OS.",
+      "de": "Nokia N-Gage / Symbian OS-Emulator.",
+      "fr": "Émulateur Nokia N-Gage / Symbian OS.",
+      "it": "Emulatore Nokia N-Gage / Symbian OS."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/EKA2L1/EKA2L1"
+  },
+  {
+    "name": "fbneo",
+    "display_name": "FinalBurn Neo",
+    "systems": [
+      "Arcade",
+      "Neo Geo",
+      "CPS1",
+      "CPS2",
+      "CPS3",
+      "Sega Master System",
+      "Sega Game Gear",
+      "PC Engine"
+    ],
+    "url": "https://github.com/finalburnneo/FBNeo/releases/latest/download/windows-x86-64.zip",
+    "filename": "fbneo-windows-x86-64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/fbneo-logo.png",
+    "notes": {
+      "es": "Emulador de Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine.",
+      "en": "Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine emulator.",
+      "pt": "Emulador de Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine.",
+      "de": "Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine-Emulator.",
+      "fr": "Émulateur Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine.",
+      "it": "Emulatore Arcade / Neo Geo / CPS1 / CPS2 / CPS3 / Sega Master System / Sega Game Gear / PC Engine."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/finalburnneo/FBNeo"
+  },
+  {
+    "name": "Fceux",
+    "display_name": "FCEUX",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo Famicom Disk System"
+    ],
+    "url": "https://github.com/TASEmulators/fceux/releases/latest/download/fceux-win32.zip",
+    "filename": "fceux-win32.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/fceux-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo Famicom Disk System.",
+      "en": "Nintendo NES / Nintendo Famicom Disk System emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo Famicom Disk System.",
+      "de": "Nintendo NES / Nintendo Famicom Disk System-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo Famicom Disk System.",
+      "it": "Emulatore Nintendo NES / Nintendo Famicom Disk System."
+    },
+    "sha256": "",
+    "homepage": "https://fceux.com"
+  },
+  {
+    "name": "Flycast",
+    "display_name": "Flycast",
+    "systems": [
+      "Sega Dreamcast",
+      "Sega NAOMI",
+      "Sega NAOMI 2",
+      "Sega Atomiswave"
+    ],
+    "url": "https://github.com/flyinghead/flycast/releases/latest/download/flycast-win64.zip",
+    "filename": "flycast-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/flycast-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave.",
+      "en": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave emulator.",
+      "pt": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave.",
+      "de": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave-Emulator.",
+      "fr": "Émulateur Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave.",
+      "it": "Emulatore Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/flyinghead/flycast"
+  },
+  {
+    "name": "fpinball",
+    "display_name": "Future Pinball",
+    "systems": [
+      "Virtual Pinball"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/fpinball-logo.png",
+    "notes": {
+      "es": "Emulador de Virtual Pinball.",
+      "en": "Virtual Pinball emulator.",
+      "pt": "Emulador de Virtual Pinball.",
+      "de": "Virtual Pinball-Emulator.",
+      "fr": "Émulateur Virtual Pinball.",
+      "it": "Emulatore Virtual Pinball."
+    },
+    "sha256": "",
+    "homepage": "https://futurepinball.com"
+  },
+  {
+    "name": "fuse",
+    "display_name": "Fuse",
+    "systems": [
+      "Sinclair ZX Spectrum"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/fuse-logo.png",
+    "notes": {
+      "es": "Emulador de Sinclair ZX Spectrum.",
+      "en": "Sinclair ZX Spectrum emulator.",
+      "pt": "Emulador de Sinclair ZX Spectrum.",
+      "de": "Sinclair ZX Spectrum-Emulator.",
+      "fr": "Émulateur Sinclair ZX Spectrum.",
+      "it": "Emulatore Sinclair ZX Spectrum."
+    },
+    "sha256": "",
+    "homepage": "https://fuse-emulator.sourceforge.net"
+  },
+  {
+    "name": "genieous",
+    "display_name": "Genieous",
+    "systems": [
+      "EACA EG2000 Colour Genie"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/Genieous.zip",
+    "filename": "Genieous.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/genieous-logo.png",
+    "notes": {
+      "es": "Emulador de EACA EG2000 Colour Genie.",
+      "en": "EACA EG2000 Colour Genie emulator.",
+      "pt": "Emulador de EACA EG2000 Colour Genie.",
+      "de": "EACA EG2000 Colour Genie-Emulator.",
+      "fr": "Émulateur EACA EG2000 Colour Genie.",
+      "it": "Emulatore EACA EG2000 Colour Genie."
+    },
+    "sha256": "",
+    "homepage": "http://gaia.atilia.eu/genieous"
+  },
+  {
+    "name": "gopher64",
+    "display_name": "Gopher64",
+    "systems": [
+      "Nintendo 64"
+    ],
+    "url": "https://github.com/gopher64/gopher64/releases/latest/download/gopher64-windows-x86_64.zip",
+    "filename": "gopher64-windows-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/gopher64-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 64.",
+      "en": "Nintendo 64 emulator.",
+      "pt": "Emulador de Nintendo 64.",
+      "de": "Nintendo 64-Emulator.",
+      "fr": "Émulateur Nintendo 64.",
+      "it": "Emulatore Nintendo 64."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/gopher64/gopher64"
+  },
+  {
+    "name": "gzdoom",
+    "display_name": "GZDoom",
+    "systems": [
+      "Doom",
+      "Doom II",
+      "Heretic",
+      "Hexen",
+      "Strife"
+    ],
+    "url": "https://github.com/ZDoom/gzdoom/releases/latest/download/gzdoom-windows-x64.zip",
+    "filename": "gzdoom-windows-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/gzdoom-logo.png",
+    "notes": {
+      "es": "Emulador de Doom / Doom II / Heretic / Hexen / Strife.",
+      "en": "Doom / Doom II / Heretic / Hexen / Strife emulator.",
+      "pt": "Emulador de Doom / Doom II / Heretic / Hexen / Strife.",
+      "de": "Doom / Doom II / Heretic / Hexen / Strife-Emulator.",
+      "fr": "Émulateur Doom / Doom II / Heretic / Hexen / Strife.",
+      "it": "Emulatore Doom / Doom II / Heretic / Hexen / Strife."
+    },
+    "sha256": "",
+    "homepage": "https://zdoom.org"
+  },
+  {
+    "name": "hatari",
+    "display_name": "Hatari",
+    "systems": [
+      "Atari ST",
+      "Atari STE",
+      "Atari TT",
+      "Atari Falcon"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/hatari-win64.zip",
+    "filename": "hatari-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/hatari-logo.png",
+    "notes": {
+      "es": "Emulador de Atari ST / Atari STE / Atari TT / Atari Falcon.",
+      "en": "Atari ST / Atari STE / Atari TT / Atari Falcon emulator.",
+      "pt": "Emulador de Atari ST / Atari STE / Atari TT / Atari Falcon.",
+      "de": "Atari ST / Atari STE / Atari TT / Atari Falcon-Emulator.",
+      "fr": "Émulateur Atari ST / Atari STE / Atari TT / Atari Falcon.",
+      "it": "Emulatore Atari ST / Atari STE / Atari TT / Atari Falcon."
+    },
+    "sha256": "",
+    "homepage": "https://hatari.tuxfamily.org"
+  },
+  {
+    "name": "hbmame",
+    "display_name": "HBMAME",
+    "systems": [
+      "Arcade Homebrew"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/hbmame-logo.png",
+    "notes": {
+      "es": "Emulador de Arcade Homebrew.",
+      "en": "Arcade Homebrew emulator.",
+      "pt": "Emulador de Arcade Homebrew.",
+      "de": "Arcade Homebrew-Emulator.",
+      "fr": "Émulateur Arcade Homebrew.",
+      "it": "Emulatore Arcade Homebrew."
+    },
+    "sha256": "",
+    "homepage": "https://hbmame.1emulation.com"
+  },
+  {
+    "name": "higan",
+    "display_name": "higan",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo SNES",
+      "Nintendo Game Boy",
+      "Nintendo GBC",
+      "Nintendo GBA",
+      "Sega Master System",
+      "PC Engine"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/higan-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine.",
+      "en": "Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine.",
+      "de": "Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine.",
+      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA / Sega Master System / PC Engine."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/higan-emu/higan"
+  },
+  {
+    "name": "hypseus",
+    "display_name": "Hypseus Singe",
+    "systems": [
+      "Laserdisc Arcade"
+    ],
+    "url": "https://github.com/DirtBagXon/hypseus-singe/releases/latest/download/hypseus-singe-win64.zip",
+    "filename": "hypseus-singe-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/hypseus-logo.png",
+    "notes": {
+      "es": "Emulador de Laserdisc Arcade.",
+      "en": "Laserdisc Arcade emulator.",
+      "pt": "Emulador de Laserdisc Arcade.",
+      "de": "Laserdisc Arcade-Emulator.",
+      "fr": "Émulateur Laserdisc Arcade.",
+      "it": "Emulatore Laserdisc Arcade."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/DirtBagXon/hypseus-singe"
+  },
+  {
+    "name": "jgenesis",
+    "display_name": "jgenesis",
+    "systems": [
+      "Sega Mega Drive",
+      "Sega Master System",
+      "Sega Game Gear",
+      "Sega CD",
+      "Sega 32X",
+      "Nintendo SNES",
+      "Nintendo Game Boy",
+      "Nintendo GBC",
+      "Nintendo GBA"
+    ],
+    "url": "https://github.com/jsgroth/jgenesis/releases/latest/download/jgenesis-windows-x86_64.zip",
+    "filename": "jgenesis-windows-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/jgenesis-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA.",
+      "en": "Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA emulator.",
+      "pt": "Emulador de Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA.",
+      "de": "Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA-Emulator.",
+      "fr": "Émulateur Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA.",
+      "it": "Emulatore Sega Mega Drive / Sega Master System / Sega Game Gear / Sega CD / Sega 32X / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo GBA."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/jsgroth/jgenesis"
+  },
+  {
+    "name": "jynx",
+    "display_name": "Jynx",
+    "systems": [
+      "Camputers Lynx"
+    ],
+    "url": "https://github.com/jonathan-markland/Jynx/releases/latest/download/Jynx-Windows-64bit.zip",
+    "filename": "Jynx-Windows-64bit.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/jynx-logo.png",
+    "notes": {
+      "es": "Emulador de Camputers Lynx.",
+      "en": "Camputers Lynx emulator.",
+      "pt": "Emulador de Camputers Lynx.",
+      "de": "Camputers Lynx-Emulator.",
+      "fr": "Émulateur Camputers Lynx.",
+      "it": "Emulatore Camputers Lynx."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/jonathan-markland/Jynx"
+  },
+  {
+    "name": "kronos",
+    "display_name": "Kronos",
+    "systems": [
+      "Sega Saturn"
+    ],
+    "url": "https://github.com/FCare/Kronos/releases/latest/download/kronos-windows-x86_64.zip",
+    "filename": "kronos-windows-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/kronos-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Saturn.",
+      "en": "Sega Saturn emulator.",
+      "pt": "Emulador de Sega Saturn.",
+      "de": "Sega Saturn-Emulator.",
+      "fr": "Émulateur Sega Saturn.",
+      "it": "Emulatore Sega Saturn."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/FCare/Kronos"
+  },
+  {
+    "name": "lime3ds",
+    "display_name": "Lime3DS",
+    "systems": [
+      "Nintendo 3DS"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/lime3ds-logo.svg",
+    "notes": {
+      "es": "Emulador de Nintendo 3DS.",
+      "en": "Nintendo 3DS emulator.",
+      "pt": "Emulador de Nintendo 3DS.",
+      "de": "Nintendo 3DS-Emulator.",
+      "fr": "Émulateur Nintendo 3DS.",
+      "it": "Emulatore Nintendo 3DS."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/azahar-emu/azahar"
+  },
+  {
+    "name": "m2emulator",
+    "display_name": "M2Emulator",
+    "systems": [
+      "Sega Model 2"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/m2emulator-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Model 2.",
+      "en": "Sega Model 2 emulator.",
+      "pt": "Emulador de Sega Model 2.",
+      "de": "Sega Model 2-Emulator.",
+      "fr": "Émulateur Sega Model 2.",
+      "it": "Emulatore Sega Model 2."
+    },
+    "sha256": "",
+    "homepage": "http://nebula.emulatronia.com"
+  },
+  {
+    "name": "magicengine",
+    "display_name": "Magic Engine",
+    "systems": [
+      "PC Engine",
+      "TurboGrafx-16",
+      "SuperGrafx"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/magicengine-logo.png",
+    "notes": {
+      "es": "Emulador de PC Engine / TurboGrafx-16 / SuperGrafx.",
+      "en": "PC Engine / TurboGrafx-16 / SuperGrafx emulator.",
+      "pt": "Emulador de PC Engine / TurboGrafx-16 / SuperGrafx.",
+      "de": "PC Engine / TurboGrafx-16 / SuperGrafx-Emulator.",
+      "fr": "Émulateur PC Engine / TurboGrafx-16 / SuperGrafx.",
+      "it": "Emulatore PC Engine / TurboGrafx-16 / SuperGrafx."
+    },
+    "sha256": "",
+    "homepage": "http://www.magicengine.com"
+  },
+  {
+    "name": "MAME",
+    "display_name": "MAME",
+    "systems": [
+      "Arcade",
+      "Neo Geo",
+      "CPS1",
+      "CPS2",
+      "CPS3",
+      "Sega Model 3",
+      "Sega Chihiro",
+      "Sega NAOMI",
+      "Konami System",
+      "Taito Type X"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/mame_x64.exe",
+    "filename": "mame_x64.exe",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mame-logo.png",
+    "notes": {
+      "es": "Multiemulador de referencia para arcade, recreativas y hardware histórico. Más de 40.000 sistemas y variantes documentadas.",
+      "en": "Reference multi-emulator for arcade, coin-op and historical hardware. Over 40,000 documented systems and variants.",
+      "pt": "Multiemulador de referência para arcade e hardware histórico. Mais de 40.000 sistemas e variantes documentados.",
+      "de": "Referenz-Multiemulator für Arcade und historische Hardware. Über 40.000 dokumentierte Systeme und Varianten.",
+      "fr": "Multiémulateur de référence pour arcade et matériel historique. Plus de 40 000 systèmes et variantes documentés.",
+      "it": "Multiemulatore di riferimento per arcade e hardware storico. Oltre 40.000 sistemi e varianti documentati."
+    },
+    "sha256": "",
+    "homepage": "https://www.mamedev.org"
+  },
+  {
+    "name": "mandarine",
+    "display_name": "Mandarine",
+    "systems": [
+      "Nintendo 3DS"
+    ],
+    "url": "https://github.com/ptyfyre/mandarine-neo/releases/latest/download/mandarine-windows.zip",
+    "filename": "mandarine-windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mandarine-logo.svg",
+    "notes": {
+      "es": "Emulador de Nintendo 3DS.",
+      "en": "Nintendo 3DS emulator.",
+      "pt": "Emulador de Nintendo 3DS.",
+      "de": "Nintendo 3DS-Emulator.",
+      "fr": "Émulateur Nintendo 3DS.",
+      "it": "Emulatore Nintendo 3DS."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/ptyfyre/mandarine-neo"
+  },
+  {
+    "name": "Mednafen",
+    "display_name": "Mednafen",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo SNES",
+      "Nintendo GB",
+      "Nintendo GBA",
+      "Sony PlayStation",
+      "Sega Saturn",
+      "PC Engine",
+      "PC-FX",
+      "Atari Lynx",
+      "Neo Geo Pocket",
+      "WonderSwan",
+      "Virtual Boy"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/mednafen-win64.zip",
+    "filename": "mednafen-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mednafen-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
+      "en": "Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
+      "de": "Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
+      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy."
+    },
+    "sha256": "",
+    "homepage": "https://mednafen.github.io"
+  },
+  {
+    "name": "meka",
+    "display_name": "MEKA",
+    "systems": [
+      "Sega Master System",
+      "Sega Game Gear",
+      "Sega SG-1000",
+      "ColecoVision"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/meka-windows.zip",
+    "filename": "meka-windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/meka-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision.",
+      "en": "Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision emulator.",
+      "pt": "Emulador de Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision.",
+      "de": "Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision-Emulator.",
+      "fr": "Émulateur Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision.",
+      "it": "Emulatore Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/ocornut/meka"
+  },
+  {
+    "name": "melonds",
+    "display_name": "melonDS",
+    "systems": [
+      "Nintendo DS",
+      "Nintendo DSi"
+    ],
+    "url": "https://github.com/melonDS-emu/melonDS/releases/latest/download/melonDS_windows_x64.zip",
+    "filename": "melonDS_windows_x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/melonds-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo DS / Nintendo DSi.",
+      "en": "Nintendo DS / Nintendo DSi emulator.",
+      "pt": "Emulador de Nintendo DS / Nintendo DSi.",
+      "de": "Nintendo DS / Nintendo DSi-Emulator.",
+      "fr": "Émulateur Nintendo DS / Nintendo DSi.",
+      "it": "Emulatore Nintendo DS / Nintendo DSi."
+    },
+    "sha256": "",
+    "homepage": "https://melonds.kuribo64.net"
+  },
+  {
+    "name": "Mesen",
+    "display_name": "Mesen",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo FDS",
+      "Nintendo SNES",
+      "Nintendo Game Boy",
+      "Nintendo GBC",
+      "Nintendo Game Boy Advance",
+      "Sega Master System",
+      "PC Engine"
+    ],
+    "url": "https://github.com/SourMesen/Mesen2/releases/latest/download/Mesen_Windows.zip",
+    "filename": "Mesen_Windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mesen-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
+      "en": "Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
+      "de": "Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
+      "it": "Emulatore Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine."
+    },
+    "sha256": "",
+    "homepage": "https://www.mesen.ca"
+  },
+  {
+    "name": "mgba",
+    "display_name": "mGBA",
+    "systems": [
+      "Nintendo Game Boy",
+      "Nintendo Game Boy Color",
+      "Nintendo Game Boy Advance"
+    ],
+    "url": "https://github.com/mgba-emu/mgba/releases/latest/download/mGBA-win64.7z",
+    "filename": "mGBA-win64.7z",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mgba-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance.",
+      "en": "Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance emulator.",
+      "pt": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance.",
+      "de": "Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance-Emulator.",
+      "fr": "Émulateur Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance.",
+      "it": "Emulatore Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance."
+    },
+    "sha256": "",
+    "homepage": "https://mgba.io"
+  },
+  {
+    "name": "mupen64",
+    "display_name": "Mupen64Plus (RMG)",
+    "systems": [
+      "Nintendo 64"
+    ],
+    "url": "https://github.com/Rosalie241/RMG/releases/latest/download/RMG-Windows-Portable-x86_64.zip",
+    "filename": "RMG-Windows-Portable-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/rmg-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 64.",
+      "en": "Nintendo 64 emulator.",
+      "pt": "Emulador de Nintendo 64.",
+      "de": "Nintendo 64-Emulator.",
+      "fr": "Émulateur Nintendo 64.",
+      "it": "Emulatore Nintendo 64."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/Rosalie241/RMG"
+  },
+  {
+    "name": "MVEM",
+    "display_name": "MVEM",
+    "systems": [
+      "Multiple Systems"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/mvem-logo.png",
+    "notes": {
+      "es": "Emulador de Multiple Systems.",
+      "en": "Multiple Systems emulator.",
+      "pt": "Emulador de Multiple Systems.",
+      "de": "Multiple Systems-Emulator.",
+      "fr": "Émulateur Multiple Systems.",
+      "it": "Emulatore Multiple Systems."
+    },
+    "sha256": "",
+    "homepage": ""
+  },
+  {
+    "name": "Nestopia",
+    "display_name": "Nestopia UE",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo Famicom"
+    ],
+    "url": "https://github.com/0ldsk00l/nestopia/releases/latest/download/nestopia-win32.zip",
+    "filename": "nestopia-win32.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/nestopia-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo Famicom.",
+      "en": "Nintendo NES / Nintendo Famicom emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo Famicom.",
+      "de": "Nintendo NES / Nintendo Famicom-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo Famicom.",
+      "it": "Emulatore Nintendo NES / Nintendo Famicom."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/0ldsk00l/nestopia"
+  },
+  {
+    "name": "nosgba",
+    "display_name": "No$GBA",
+    "systems": [
+      "Nintendo Game Boy Advance",
+      "Nintendo DS"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/nosgba-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Game Boy Advance / Nintendo DS.",
+      "en": "Nintendo Game Boy Advance / Nintendo DS emulator.",
+      "pt": "Emulador de Nintendo Game Boy Advance / Nintendo DS.",
+      "de": "Nintendo Game Boy Advance / Nintendo DS-Emulator.",
+      "fr": "Émulateur Nintendo Game Boy Advance / Nintendo DS.",
+      "it": "Emulatore Nintendo Game Boy Advance / Nintendo DS."
+    },
+    "sha256": "",
+    "homepage": "https://www.nogba.com"
+  },
+  {
+    "name": "openMSX",
+    "display_name": "openMSX",
+    "systems": [
+      "MSX",
+      "MSX2",
+      "MSX2+",
+      "MSX Turbo R"
+    ],
+    "url": "https://github.com/openMSX/openMSX/releases/latest/download/openmsx-windows-vc-x64-bin.zip",
+    "filename": "openmsx-windows-vc-x64-bin.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/openmsx-logo.png",
+    "notes": {
+      "es": "Emulador de MSX / MSX2 / MSX2+ / MSX Turbo R.",
+      "en": "MSX / MSX2 / MSX2+ / MSX Turbo R emulator.",
+      "pt": "Emulador de MSX / MSX2 / MSX2+ / MSX Turbo R.",
+      "de": "MSX / MSX2 / MSX2+ / MSX Turbo R-Emulator.",
+      "fr": "Émulateur MSX / MSX2 / MSX2+ / MSX Turbo R.",
+      "it": "Emulatore MSX / MSX2 / MSX2+ / MSX Turbo R."
+    },
+    "sha256": "",
+    "homepage": "https://openmsx.org"
+  },
+  {
+    "name": "oricutron",
+    "display_name": "Oricutron",
+    "systems": [
+      "Oric-1",
+      "Oric Atmos"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/oricutron-logo.png",
+    "notes": {
+      "es": "Emulador de Oric-1 / Oric Atmos.",
+      "en": "Oric-1 / Oric Atmos emulator.",
+      "pt": "Emulador de Oric-1 / Oric Atmos.",
+      "de": "Oric-1 / Oric Atmos-Emulator.",
+      "fr": "Émulateur Oric-1 / Oric Atmos.",
+      "it": "Emulatore Oric-1 / Oric Atmos."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/pete-gordon/oricutron"
+  },
+  {
+    "name": "PCSX2",
+    "display_name": "PCSX2",
+    "systems": [
+      "Sony PlayStation 2"
+    ],
+    "url": "https://github.com/PCSX2/pcsx2/releases/latest/download/pcsx2-windows-x64-Qt.7z",
+    "filename": "pcsx2-windows-x64-Qt.7z",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/pcsx2-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PlayStation 2.",
+      "en": "Sony PlayStation 2 emulator.",
+      "pt": "Emulador de Sony PlayStation 2.",
+      "de": "Sony PlayStation 2-Emulator.",
+      "fr": "Émulateur Sony PlayStation 2.",
+      "it": "Emulatore Sony PlayStation 2."
+    },
+    "sha256": "",
+    "homepage": "https://pcsx2.net"
+  },
+  {
+    "name": "phoenix",
+    "display_name": "Phoenix",
+    "systems": [
+      "3DO Interactive",
+      "Atari Jaguar"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/phoenix.png",
+    "notes": {
+      "es": "Emulador de 3DO Interactive / Atari Jaguar.",
+      "en": "3DO Interactive / Atari Jaguar emulator.",
+      "pt": "Emulador de 3DO Interactive / Atari Jaguar.",
+      "de": "3DO Interactive / Atari Jaguar-Emulator.",
+      "fr": "Émulateur 3DO Interactive / Atari Jaguar.",
+      "it": "Emulatore 3DO Interactive / Atari Jaguar."
+    },
+    "sha256": "",
+    "homepage": "http://www.arts-union.ru/node/23"
+  },
+  {
+    "name": "pico8",
+    "display_name": "PICO-8",
+    "systems": [
+      "PICO-8 Fantasy Console"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "none",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/pico8-logo.png",
+    "notes": {
+      "es": "Emulador de PICO-8 Fantasy Console.",
+      "en": "PICO-8 Fantasy Console emulator.",
+      "pt": "Emulador de PICO-8 Fantasy Console.",
+      "de": "PICO-8 Fantasy Console-Emulator.",
+      "fr": "Émulateur PICO-8 Fantasy Console.",
+      "it": "Emulatore PICO-8 Fantasy Console."
+    },
+    "sha256": "",
+    "homepage": "https://www.lexaloffle.com/pico-8.php"
+  },
+  {
+    "name": "play",
+    "display_name": "Play!",
+    "systems": [
+      "Sony PlayStation 2"
+    ],
+    "url": "https://github.com/jpd002/Play-/releases/latest/download/Play-windows_x64-release.zip",
+    "filename": "Play-windows_x64-release.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/play-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PlayStation 2.",
+      "en": "Sony PlayStation 2 emulator.",
+      "pt": "Emulador de Sony PlayStation 2.",
+      "de": "Sony PlayStation 2-Emulator.",
+      "fr": "Émulateur Sony PlayStation 2.",
+      "it": "Emulatore Sony PlayStation 2."
+    },
+    "sha256": "",
+    "homepage": "https://purei.org"
+  },
+  {
+    "name": "ppsspp",
+    "display_name": "PPSSPP",
+    "systems": [
+      "Sony PSP"
+    ],
+    "url": "https://github.com/hrydgard/ppsspp/releases/latest/download/ppsspp_win.zip",
+    "filename": "ppsspp_win.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ppsspp-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PSP.",
+      "en": "Sony PSP emulator.",
+      "pt": "Emulador de Sony PSP.",
+      "de": "Sony PSP-Emulator.",
+      "fr": "Émulateur Sony PSP.",
+      "it": "Emulatore Sony PSP."
+    },
+    "sha256": "",
+    "homepage": "https://www.ppsspp.org"
+  },
+  {
+    "name": "project64",
+    "display_name": "Project64",
+    "systems": [
+      "Nintendo 64"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/project64-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 64.",
+      "en": "Nintendo 64 emulator.",
+      "pt": "Emulador de Nintendo 64.",
+      "de": "Nintendo 64-Emulator.",
+      "fr": "Émulateur Nintendo 64.",
+      "it": "Emulatore Nintendo 64."
+    },
+    "sha256": "",
+    "homepage": "https://www.pj64-emu.com"
+  },
+  {
+    "name": "punes",
+    "display_name": "puNES",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo Famicom",
+      "Nintendo Famicom Disk System"
+    ],
+    "url": "https://github.com/punesemu/puNES/releases/latest/download/puNES-win64.zip",
+    "filename": "puNES-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/punes-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System.",
+      "en": "Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System emulator.",
+      "pt": "Emulador de Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System.",
+      "de": "Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System-Emulator.",
+      "fr": "Émulateur Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System.",
+      "it": "Emulatore Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/punesemu/puNES"
+  },
+  {
+    "name": "raine",
+    "display_name": "Raine",
+    "systems": [
+      "Arcade",
+      "Neo Geo",
+      "Neo Geo CD"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/raine-logo.png",
+    "notes": {
+      "es": "Emulador de Arcade / Neo Geo / Neo Geo CD.",
+      "en": "Arcade / Neo Geo / Neo Geo CD emulator.",
+      "pt": "Emulador de Arcade / Neo Geo / Neo Geo CD.",
+      "de": "Arcade / Neo Geo / Neo Geo CD-Emulator.",
+      "fr": "Émulateur Arcade / Neo Geo / Neo Geo CD.",
+      "it": "Emulatore Arcade / Neo Geo / Neo Geo CD."
+    },
+    "sha256": "",
+    "homepage": "https://raine.1emulation.com"
+  },
+  {
+    "name": "Redream",
+    "display_name": "Redream",
+    "systems": [
+      "Sega Dreamcast"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/redream-windows.zip",
+    "filename": "redream-windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/redream-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Dreamcast.",
+      "en": "Sega Dreamcast emulator.",
+      "pt": "Emulador de Sega Dreamcast.",
+      "de": "Sega Dreamcast-Emulator.",
+      "fr": "Émulateur Sega Dreamcast.",
+      "it": "Emulatore Sega Dreamcast."
+    },
+    "sha256": "",
+    "homepage": "https://redream.io"
+  },
+  {
+    "name": "RetroArch",
+    "display_name": "RetroArch",
+    "systems": [
+      "Nintendo NES",
+      "Nintendo SNES",
+      "Nintendo 64",
+      "Nintendo GBA",
+      "Nintendo DS",
+      "Sony PlayStation",
+      "Sega Mega Drive",
+      "Sega Saturn",
+      "Sega Dreamcast",
+      "Arcade",
+      "Atari",
+      "PC Engine",
+      "Neo Geo"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/RetroArch.7z",
+    "filename": "RetroArch.7z",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/retroarch-logo.png",
+    "notes": {
+      "es": "Frontend multiemulador que unifica más de 100 núcleos libretro bajo una interfaz común. Los núcleos se descargan desde dentro de RetroArch.",
+      "en": "Multi-emulator frontend unifying over 100 libretro cores under a common interface. Cores are downloaded from within RetroArch.",
+      "pt": "Frontend multiemulador que unifica mais de 100 núcleos libretro sob uma interface comum. Os núcleos são baixados de dentro do RetroArch.",
+      "de": "Multi-Emulator-Frontend, das über 100 Libretro-Kerne unter einer gemeinsamen Oberfläche vereint. Kerne werden in RetroArch heruntergeladen.",
+      "fr": "Frontend multi-émulateur unifiant plus de 100 cœurs libretro sous une interface commune. Les cœurs se téléchargent depuis RetroArch.",
+      "it": "Frontend multiemulatore che unifica oltre 100 core libretro sotto un'interfaccia comune. I core si scaricano dall'interno di RetroArch."
+    },
+    "sha256": "",
+    "strip_subfolder": true,
+    "homepage": "https://www.retroarch.com"
+  },
+  {
+    "name": "rpcs3",
+    "display_name": "RPCS3",
+    "systems": [
+      "Sony PlayStation 3"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/rpcs3-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PlayStation 3.",
+      "en": "Sony PlayStation 3 emulator.",
+      "pt": "Emulador de Sony PlayStation 3.",
+      "de": "Sony PlayStation 3-Emulator.",
+      "fr": "Émulateur Sony PlayStation 3.",
+      "it": "Emulatore Sony PlayStation 3."
+    },
+    "sha256": "",
+    "homepage": "https://rpcs3.net"
+  },
+  {
+    "name": "ruffle",
+    "display_name": "Ruffle",
+    "systems": [
+      "Adobe Flash"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ruffle-logo.png",
+    "notes": {
+      "es": "Emulador de Adobe Flash.",
+      "en": "Adobe Flash emulator.",
+      "pt": "Emulador de Adobe Flash.",
+      "de": "Adobe Flash-Emulator.",
+      "fr": "Émulateur Adobe Flash.",
+      "it": "Emulatore Adobe Flash."
+    },
+    "sha256": "",
+    "homepage": "https://ruffle.rs"
+  },
+  {
+    "name": "ryujinx",
+    "display_name": "Ryujinx (Ryubing)",
+    "systems": [
+      "Nintendo Switch"
+    ],
+    "url": "https://github.com/Kenji-NX/Releases/releases/latest/download/ryujinx-win_x64.zip",
+    "filename": "ryujinx-win_x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ryujinx-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Switch.",
+      "en": "Nintendo Switch emulator.",
+      "pt": "Emulador de Nintendo Switch.",
+      "de": "Nintendo Switch-Emulator.",
+      "fr": "Émulateur Nintendo Switch.",
+      "it": "Emulatore Nintendo Switch."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/Kenji-NX/Releases"
+  },
+  {
+    "name": "ScummVM",
+    "display_name": "ScummVM",
+    "systems": [
+      "LucasArts Adventure",
+      "Sierra Adventure",
+      "Westwood Studios",
+      "DOS Adventure"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/scummvm-win64.zip",
+    "filename": "scummvm-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/scummvm.png",
+    "notes": {
+      "es": "Emulador de LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure.",
+      "en": "LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure emulator.",
+      "pt": "Emulador de LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure.",
+      "de": "LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure-Emulator.",
+      "fr": "Émulateur LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure.",
+      "it": "Emulatore LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure."
+    },
+    "sha256": "",
+    "strip_subfolder": true,
+    "homepage": "https://www.scummvm.org"
+  },
+  {
+    "name": "shadps4",
+    "display_name": "shadPS4",
+    "systems": [
+      "Sony PlayStation 4"
+    ],
+    "url": "https://github.com/shadps4-emu/shadPS4/releases/latest/download/shadps4-win64-qt-release.zip",
+    "filename": "shadps4-win64-qt-release.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/shadps4-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PlayStation 4.",
+      "en": "Sony PlayStation 4 emulator.",
+      "pt": "Emulador de Sony PlayStation 4.",
+      "de": "Sony PlayStation 4-Emulator.",
+      "fr": "Émulateur Sony PlayStation 4.",
+      "it": "Emulatore Sony PlayStation 4."
+    },
+    "sha256": "",
+    "homepage": "https://shadps4.net"
+  },
+  {
+    "name": "SimCoupe",
+    "display_name": "SimCoupe",
+    "systems": [
+      "SAM Coupe"
+    ],
+    "url": "https://github.com/simonowen/simcoupe/releases/latest/download/SimCoupe-win_x64.zip",
+    "filename": "SimCoupe-win_x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/simcoupe-logo.png",
+    "notes": {
+      "es": "Emulador de SAM Coupe.",
+      "en": "SAM Coupe emulator.",
+      "pt": "Emulador de SAM Coupe.",
+      "de": "SAM Coupe-Emulator.",
+      "fr": "Émulateur SAM Coupe.",
+      "it": "Emulatore SAM Coupe."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/simonowen/simcoupe"
+  },
+  {
+    "name": "simple64",
+    "display_name": "simple64",
+    "systems": [
+      "Nintendo 64"
+    ],
+    "url": "https://github.com/simple64/simple64/releases/latest/download/simple64-win64.zip",
+    "filename": "simple64-win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/simple64-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo 64.",
+      "en": "Nintendo 64 emulator.",
+      "pt": "Emulador de Nintendo 64.",
+      "de": "Nintendo 64-Emulator.",
+      "fr": "Émulateur Nintendo 64.",
+      "it": "Emulatore Nintendo 64."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/simple64/simple64"
+  },
+  {
+    "name": "Snes9x",
+    "display_name": "Snes9x",
+    "systems": [
+      "Nintendo SNES",
+      "Nintendo Super Famicom"
+    ],
+    "url": "https://github.com/snes9xgit/snes9x/releases/latest/download/snes9x-win32-x64.zip",
+    "filename": "snes9x-win32-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/snes9x-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
+      "en": "Nintendo SNES / Nintendo Super Famicom emulator.",
+      "pt": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
+      "de": "Nintendo SNES / Nintendo Super Famicom-Emulator.",
+      "fr": "Émulateur Nintendo SNES / Nintendo Super Famicom.",
+      "it": "Emulatore Nintendo SNES / Nintendo Super Famicom."
+    },
+    "sha256": "",
+    "homepage": "https://www.snes9x.com"
+  },
+  {
+    "name": "ssf",
+    "display_name": "SSF",
+    "systems": [
+      "Sega Saturn"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ssf-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Saturn.",
+      "en": "Sega Saturn emulator.",
+      "pt": "Emulador de Sega Saturn.",
+      "de": "Sega Saturn-Emulator.",
+      "fr": "Émulateur Sega Saturn.",
+      "it": "Emulatore Sega Saturn."
+    },
+    "sha256": "",
+    "homepage": "http://www.geocities.jp/mj3kj8o5/ssf/"
+  },
+  {
+    "name": "steemsse",
+    "display_name": "Steem SSE",
+    "systems": [
+      "Atari ST",
+      "Atari STE",
+      "Atari Mega ST"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/steemsse-logo.png",
+    "notes": {
+      "es": "Emulador de Atari ST / Atari STE / Atari Mega ST.",
+      "en": "Atari ST / Atari STE / Atari Mega ST emulator.",
+      "pt": "Emulador de Atari ST / Atari STE / Atari Mega ST.",
+      "de": "Atari ST / Atari STE / Atari Mega ST-Emulator.",
+      "fr": "Émulateur Atari ST / Atari STE / Atari Mega ST.",
+      "it": "Emulatore Atari ST / Atari STE / Atari Mega ST."
+    },
+    "sha256": "",
+    "homepage": "https://sourceforge.net/projects/steemsse/"
+  },
+  {
+    "name": "stella",
+    "display_name": "Stella",
+    "systems": [
+      "Atari 2600"
+    ],
+    "url": "https://github.com/stella-emu/stella/releases/latest/download/Stella-windows-x86_64.zip",
+    "filename": "Stella-windows-x86_64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/stella-logo.png",
+    "notes": {
+      "es": "Emulador de Atari 2600.",
+      "en": "Atari 2600 emulator.",
+      "pt": "Emulador de Atari 2600.",
+      "de": "Atari 2600-Emulator.",
+      "fr": "Émulateur Atari 2600.",
+      "it": "Emulatore Atari 2600."
+    },
+    "sha256": "",
+    "homepage": "https://stella-emu.github.io"
+  },
+  {
+    "name": "sudachi",
+    "display_name": "Sudachi",
+    "systems": [
+      "Nintendo Switch"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/sudachi-logo.jpg",
+    "notes": {
+      "es": "Emulador de Nintendo Switch.",
+      "en": "Nintendo Switch emulator.",
+      "pt": "Emulador de Nintendo Switch.",
+      "de": "Nintendo Switch-Emulator.",
+      "fr": "Émulateur Nintendo Switch.",
+      "it": "Emulatore Nintendo Switch."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/sudachi-emu/sudachi"
+  },
+  {
+    "name": "supermodel",
+    "display_name": "Supermodel",
+    "systems": [
+      "Sega Model 3"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/supermodel-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Model 3.",
+      "en": "Sega Model 3 emulator.",
+      "pt": "Emulador de Sega Model 3.",
+      "de": "Sega Model 3-Emulator.",
+      "fr": "Émulateur Sega Model 3.",
+      "it": "Emulatore Sega Model 3."
+    },
+    "sha256": "",
+    "homepage": "https://supermodel3.com"
+  },
+  {
+    "name": "suyu",
+    "display_name": "Suyu",
+    "systems": [
+      "Nintendo Switch"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/suyu-logo.png",
+    "notes": {
+      "es": "Emulador de Nintendo Switch.",
+      "en": "Nintendo Switch emulator.",
+      "pt": "Emulador de Nintendo Switch.",
+      "de": "Nintendo Switch-Emulator.",
+      "fr": "Émulateur Nintendo Switch.",
+      "it": "Emulatore Nintendo Switch."
+    },
+    "sha256": "",
+    "homepage": "https://suyu.dev"
+  },
+  {
+    "name": "teknoparrot",
+    "display_name": "TeknoParrot",
+    "systems": [
+      "Arcade PC-Based",
+      "Sega RingEdge",
+      "Sega RingWide",
+      "Taito Type X"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "none",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/teknoparrot-logo.png",
+    "notes": {
+      "es": "Emulador de Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X.",
+      "en": "Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X emulator.",
+      "pt": "Emulador de Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X.",
+      "de": "Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X-Emulator.",
+      "fr": "Émulateur Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X.",
+      "it": "Emulatore Arcade PC-Based / Sega RingEdge / Sega RingWide / Taito Type X."
+    },
+    "sha256": "",
+    "homepage": "https://teknoparrot.com"
+  },
+  {
+    "name": "TheForceEngine",
+    "display_name": "The Force Engine",
+    "systems": [
+      "MS-DOS",
+      "Dark Forces"
+    ],
+    "url": "https://github.com/luciusDXL/TheForceEngine/releases/latest/download/TheForceEngine.zip",
+    "filename": "TheForceEngine.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/forceengine-logo.png",
+    "notes": {
+      "es": "Emulador de MS-DOS / Dark Forces.",
+      "en": "MS-DOS / Dark Forces emulator.",
+      "pt": "Emulador de MS-DOS / Dark Forces.",
+      "de": "MS-DOS / Dark Forces-Emulator.",
+      "fr": "Émulateur MS-DOS / Dark Forces.",
+      "it": "Emulatore MS-DOS / Dark Forces."
+    },
+    "sha256": "",
+    "homepage": "https://theforceengine.github.io"
+  },
+  {
+    "name": "tsugaru",
+    "display_name": "Tsugaru",
+    "systems": [
+      "Fujitsu FM Towns"
+    ],
+    "url": "https://github.com/captainys/TOWNSEMU/releases/latest/download/Tsugaru_win64.zip",
+    "filename": "Tsugaru_win64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/tsugaru-logo.png",
+    "notes": {
+      "es": "Emulador de Fujitsu FM Towns.",
+      "en": "Fujitsu FM Towns emulator.",
+      "pt": "Emulador de Fujitsu FM Towns.",
+      "de": "Fujitsu FM Towns-Emulator.",
+      "fr": "Émulateur Fujitsu FM Towns.",
+      "it": "Emulatore Fujitsu FM Towns."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/captainys/TOWNSEMU"
+  },
+  {
+    "name": "Vita3K",
+    "display_name": "Vita3K",
+    "systems": [
+      "Sony PS Vita"
+    ],
+    "url": "https://github.com/Vita3K/Vita3K/releases/latest/download/windows-latest.zip",
+    "filename": "Vita3K-windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/vita3k-logo.png",
+    "notes": {
+      "es": "Emulador de Sony PS Vita.",
+      "en": "Sony PS Vita emulator.",
+      "pt": "Emulador de Sony PS Vita.",
+      "de": "Sony PS Vita-Emulator.",
+      "fr": "Émulateur Sony PS Vita.",
+      "it": "Emulatore Sony PS Vita."
+    },
+    "sha256": "",
+    "homepage": "https://vita3k.org"
+  },
+  {
+    "name": "vpinball",
+    "display_name": "Visual Pinball X",
+    "systems": [
+      "Virtual Pinball"
+    ],
+    "url": "https://github.com/vpinball/vpinball/releases/latest/download/VPinballX_GL_standalone-win-x64.zip",
+    "filename": "VPinballX_GL_standalone-win-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/vpinball-logo.png",
+    "notes": {
+      "es": "Emulador de Virtual Pinball.",
+      "en": "Virtual Pinball emulator.",
+      "pt": "Emulador de Virtual Pinball.",
+      "de": "Virtual Pinball-Emulator.",
+      "fr": "Émulateur Virtual Pinball.",
+      "it": "Emulatore Virtual Pinball."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/vpinball/vpinball"
+  },
+  {
+    "name": "winarcadia",
+    "display_name": "WinArcadia",
+    "systems": [
+      "Emerson Arcadia 2001",
+      "Interton VC 4000",
+      "Hanimex Pencil II"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/winarcadia-logo.png",
+    "notes": {
+      "es": "Emulador de Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II.",
+      "en": "Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II emulator.",
+      "pt": "Emulador de Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II.",
+      "de": "Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II-Emulator.",
+      "fr": "Émulateur Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II.",
+      "it": "Emulatore Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II."
+    },
+    "sha256": "",
+    "homepage": "https://amigan.yatho.com"
+  },
+  {
+    "name": "WinUAE",
+    "display_name": "WinUAE",
+    "systems": [
+      "Commodore Amiga",
+      "Amiga CD32",
+      "Amiga CDTV"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/WinUAE_x64.zip",
+    "filename": "WinUAE_x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/winuae-logo.png",
+    "notes": {
+      "es": "Emulador de Commodore Amiga / Amiga CD32 / Amiga CDTV.",
+      "en": "Commodore Amiga / Amiga CD32 / Amiga CDTV emulator.",
+      "pt": "Emulador de Commodore Amiga / Amiga CD32 / Amiga CDTV.",
+      "de": "Commodore Amiga / Amiga CD32 / Amiga CDTV-Emulator.",
+      "fr": "Émulateur Commodore Amiga / Amiga CD32 / Amiga CDTV.",
+      "it": "Emulatore Commodore Amiga / Amiga CD32 / Amiga CDTV."
+    },
+    "sha256": "",
+    "homepage": "https://www.winuae.net"
+  },
+  {
+    "name": "xemu",
+    "display_name": "xemu",
+    "systems": [
+      "Microsoft Xbox",
+      "Sega Chihiro"
+    ],
+    "url": "https://github.com/xemu-project/xemu/releases/latest/download/xemu-win-release.zip",
+    "filename": "xemu-win-release.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/xemu-logo.png",
+    "notes": {
+      "es": "Emulador de Microsoft Xbox / Sega Chihiro.",
+      "en": "Microsoft Xbox / Sega Chihiro emulator.",
+      "pt": "Emulador de Microsoft Xbox / Sega Chihiro.",
+      "de": "Microsoft Xbox / Sega Chihiro-Emulator.",
+      "fr": "Émulateur Microsoft Xbox / Sega Chihiro.",
+      "it": "Emulatore Microsoft Xbox / Sega Chihiro."
+    },
+    "sha256": "",
+    "homepage": "https://xemu.app"
+  },
+  {
+    "name": "Xenia",
+    "display_name": "Xenia",
+    "systems": [
+      "Microsoft Xbox 360"
+    ],
+    "url": "https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip",
+    "filename": "xenia_master.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/xenia-logo.png",
+    "notes": {
+      "es": "Emulador de Microsoft Xbox 360.",
+      "en": "Microsoft Xbox 360 emulator.",
+      "pt": "Emulador de Microsoft Xbox 360.",
+      "de": "Microsoft Xbox 360-Emulator.",
+      "fr": "Émulateur Microsoft Xbox 360.",
+      "it": "Emulatore Microsoft Xbox 360."
+    },
+    "sha256": "",
+    "homepage": "https://xenia.jp"
+  },
+  {
+    "name": "xenia-manager",
+    "display_name": "Xenia Manager",
+    "systems": [
+      "Microsoft Xbox 360"
+    ],
+    "url": "https://github.com/xenia-manager/xenia-manager/releases/latest/download/xenia-manager.zip",
+    "filename": "xenia-manager.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/xenia-manager-logo.png",
+    "notes": {
+      "es": "Emulador de Microsoft Xbox 360.",
+      "en": "Microsoft Xbox 360 emulator.",
+      "pt": "Emulador de Microsoft Xbox 360.",
+      "de": "Microsoft Xbox 360-Emulator.",
+      "fr": "Émulateur Microsoft Xbox 360.",
+      "it": "Emulatore Microsoft Xbox 360."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/xenia-manager/xenia-manager"
+  },
+  {
+    "name": "xenia_canary",
+    "display_name": "Xenia Canary",
+    "systems": [
+      "Microsoft Xbox 360"
+    ],
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary.zip",
+    "filename": "xenia_canary.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/xenia-logo.png",
+    "notes": {
+      "es": "Emulador de Microsoft Xbox 360.",
+      "en": "Microsoft Xbox 360 emulator.",
+      "pt": "Emulador de Microsoft Xbox 360.",
+      "de": "Microsoft Xbox 360-Emulator.",
+      "fr": "Émulateur Microsoft Xbox 360.",
+      "it": "Emulatore Microsoft Xbox 360."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/xenia-canary/xenia-canary-releases"
+  },
+  {
+    "name": "xroar",
+    "display_name": "XRoar",
+    "systems": [
+      "Dragon 32",
+      "Dragon 64",
+      "Tandy CoCo"
+    ],
+    "url": "https://github.com/hgbman/assets/releases/latest/download/xroar-windows.zip",
+    "filename": "xroar-windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/xroar-logo.png",
+    "notes": {
+      "es": "Emulador de Dragon 32 / Dragon 64 / Tandy CoCo.",
+      "en": "Dragon 32 / Dragon 64 / Tandy CoCo emulator.",
+      "pt": "Emulador de Dragon 32 / Dragon 64 / Tandy CoCo.",
+      "de": "Dragon 32 / Dragon 64 / Tandy CoCo-Emulator.",
+      "fr": "Émulateur Dragon 32 / Dragon 64 / Tandy CoCo.",
+      "it": "Emulatore Dragon 32 / Dragon 64 / Tandy CoCo."
+    },
+    "sha256": "",
+    "homepage": "https://www.6809.org.uk/xroar/"
+  },
+  {
+    "name": "yabasanshiro",
+    "display_name": "YabaSanshiro",
+    "systems": [
+      "Sega Saturn"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/yabasanshiro-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Saturn.",
+      "en": "Sega Saturn emulator.",
+      "pt": "Emulador de Sega Saturn.",
+      "de": "Sega Saturn-Emulator.",
+      "fr": "Émulateur Sega Saturn.",
+      "it": "Emulatore Sega Saturn."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/devmiyax/yabause"
+  },
+  {
+    "name": "yape",
+    "display_name": "YAPE",
+    "systems": [
+      "Commodore 16",
+      "Commodore Plus/4"
+    ],
+    "url": "",
+    "filename": "",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/yape-logo.png",
+    "notes": {
+      "es": "Emulador de Commodore 16 / Commodore Plus/4.",
+      "en": "Commodore 16 / Commodore Plus/4 emulator.",
+      "pt": "Emulador de Commodore 16 / Commodore Plus/4.",
+      "de": "Commodore 16 / Commodore Plus/4-Emulator.",
+      "fr": "Émulateur Commodore 16 / Commodore Plus/4.",
+      "it": "Emulatore Commodore 16 / Commodore Plus/4."
+    },
+    "sha256": "",
+    "homepage": "http://yape.plus4.net"
+  },
+  {
+    "name": "ymir",
+    "display_name": "Ymir",
+    "systems": [
+      "Sega Saturn"
+    ],
+    "url": "https://github.com/StrikerX3/Ymir/releases/latest/download/Ymir-windows-x64.zip",
+    "filename": "Ymir-windows-x64.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/ymir-logo.png",
+    "notes": {
+      "es": "Emulador de Sega Saturn.",
+      "en": "Sega Saturn emulator.",
+      "pt": "Emulador de Sega Saturn.",
+      "de": "Sega Saturn-Emulator.",
+      "fr": "Émulateur Sega Saturn.",
+      "it": "Emulatore Sega Saturn."
+    },
+    "sha256": "",
+    "homepage": "https://github.com/StrikerX3/Ymir"
+  },
+  {
+    "name": "ZEsarUX",
+    "display_name": "ZEsarUX",
+    "systems": [
+      "Sinclair ZX Spectrum",
+      "ZX80",
+      "ZX81",
+      "Amstrad CPC",
+      "Sam Coupe",
+      "Jupiter Ace"
+    ],
+    "url": "https://github.com/chernandezba/zesarux/releases/latest/download/ZEsarUX_windows.zip",
+    "filename": "ZEsarUX_windows.zip",
+    "extract": "zip",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/zesarux-logo.jpg",
+    "notes": {
+      "es": "Emulador de Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
+      "en": "Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace emulator.",
+      "pt": "Emulador de Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
+      "de": "Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace-Emulator.",
+      "fr": "Émulateur Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
+      "it": "Emulatore Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace."
+    },
+    "sha256": "",
+    "strip_subfolder": true,
+    "homepage": "https://github.com/chernandezba/zesarux"
+  }
+]
