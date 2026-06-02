@@ -29,8 +29,8 @@
     "systems": [
       "Apple II"
     ],
-    "url": "https://github.com/AppleWin/AppleWin/releases/latest/download/applewin.zip",
-    "filename": "applewin.zip",
+    "url": "https://github.com/AppleWin/AppleWin/releases/latest/download/AppleWin1.32.0.0.zip",
+    "filename": "AppleWin1.32.0.0.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/applewin-logo.png",
@@ -84,8 +84,8 @@
       "Nintendo GBA",
       "PC Engine"
     ],
-    "url": "https://github.com/ares-emulator/ares/releases/latest/download/ares-windows-x86_64.zip",
-    "filename": "ares-windows-x86_64.zip",
+    "url": "https://github.com/ares-emulator/ares/releases/latest/download/ares-windows-x64.zip",
+    "filename": "ares-windows-x64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ares-logo.png",
@@ -106,7 +106,7 @@
     "systems": [
       "Nintendo 3DS"
     ],
-    "url": "https://github.com/azahar-emu/azahar/releases/latest/download/azahar-windows-msvc.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/azahar-windows-msvc.zip",
     "filename": "azahar-windows-msvc.zip",
     "extract": "zip",
     "version": "",
@@ -129,7 +129,7 @@
       "BBC Micro",
       "BBC Master 128"
     ],
-    "url": "https://github.com/stardot/beebem-windows/releases/latest/download/BeebEm.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/BeebEm.zip",
     "filename": "BeebEm.zip",
     "extract": "zip",
     "version": "",
@@ -212,7 +212,7 @@
       "Neo Geo Pocket",
       "WonderSwan"
     ],
-    "url": "https://github.com/TASEmulators/BizHawk/releases/latest/download/BizHawk-win-x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/BizHawk-win-x64.zip",
     "filename": "BizHawk-win-x64.zip",
     "extract": "zip",
     "version": "",
@@ -279,7 +279,7 @@
     "systems": [
       "Nintendo Wii U"
     ],
-    "url": "https://github.com/cemu-project/Cemu/releases/latest/download/cemu-windows-x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/cemu-windows-x64.zip",
     "filename": "cemu-windows-x64.zip",
     "extract": "zip",
     "version": "",
@@ -302,7 +302,7 @@
     "systems": [
       "Commander Keen"
     ],
-    "url": "https://github.com/gerstrong/Commander-Genius/releases/latest/download/CGenius-win64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/CGenius-win64.zip",
     "filename": "CGenius-win64.zip",
     "extract": "zip",
     "version": "",
@@ -509,8 +509,8 @@
       "Windows 3.x",
       "Windows 95"
     ],
-    "url": "https://github.com/dosbox-staging/dosbox-staging/releases/latest/download/dosbox-staging-windows-x86_64-release.zip",
-    "filename": "dosbox-staging-windows-x86_64-release.zip",
+    "url": "https://github.com/dosbox-staging/dosbox-staging/releases/latest/download/dosbox-staging-windows-x64-v0.82.2.zip",
+    "filename": "dosbox-staging-windows-x64-v0.82.2.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/dosbox-logo.png",
@@ -576,8 +576,8 @@
       "Nokia N-Gage",
       "Symbian OS"
     ],
-    "url": "https://github.com/EKA2L1/EKA2L1/releases/latest/download/EKA2L1_windows_x64.zip",
-    "filename": "EKA2L1_windows_x64.zip",
+    "url": "https://github.com/EKA2L1/EKA2L1/releases/latest/download/EKA2L1-Windows-x86_64.zip",
+    "filename": "EKA2L1-Windows-x86_64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/eka2l1-logo.png",
@@ -605,8 +605,8 @@
       "Sega Game Gear",
       "PC Engine"
     ],
-    "url": "https://github.com/finalburnneo/FBNeo/releases/latest/download/windows-x86-64.zip",
-    "filename": "fbneo-windows-x86-64.zip",
+    "url": "https://github.com/finalburnneo/FBNeo/releases/latest/download/windows-x86_64.zip",
+    "filename": "windows-x86_64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/fbneo-logo.png",
@@ -628,8 +628,8 @@
       "Nintendo NES",
       "Nintendo Famicom Disk System"
     ],
-    "url": "https://github.com/TASEmulators/fceux/releases/latest/download/fceux-win32.zip",
-    "filename": "fceux-win32.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/fceux-win64.zip",
+    "filename": "fceux-win64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/fceux-logo.png",
@@ -653,7 +653,7 @@
       "Sega NAOMI 2",
       "Sega Atomiswave"
     ],
-    "url": "https://github.com/flyinghead/flycast/releases/latest/download/flycast-win64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/flycast-win64.zip",
     "filename": "flycast-win64.zip",
     "extract": "zip",
     "version": "",
@@ -741,8 +741,8 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "https://github.com/gopher64/gopher64/releases/latest/download/gopher64-windows-x86_64.zip",
-    "filename": "gopher64-windows-x86_64.zip",
+    "url": "https://github.com/gopher64/gopher64/releases/latest/download/gopher64-windows-x86_64.exe",
+    "filename": "gopher64-windows-x86_64.exe",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/gopher64-logo.png",
@@ -767,8 +767,8 @@
       "Hexen",
       "Strife"
     ],
-    "url": "https://github.com/ZDoom/gzdoom/releases/latest/download/gzdoom-windows-x64.zip",
-    "filename": "gzdoom-windows-x64.zip",
+    "url": "https://github.com/ZDoom/gzdoom/releases/latest/download/gzdoom-4-14-2-windows.zip",
+    "filename": "gzdoom-4-14-2-windows.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/gzdoom-logo.png",
@@ -864,7 +864,7 @@
     "systems": [
       "Laserdisc Arcade"
     ],
-    "url": "https://github.com/DirtBagXon/hypseus-singe/releases/latest/download/hypseus-singe-win64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/hypseus-singe-win64.zip",
     "filename": "hypseus-singe-win64.zip",
     "extract": "zip",
     "version": "",
@@ -894,7 +894,7 @@
       "Nintendo GBC",
       "Nintendo GBA"
     ],
-    "url": "https://github.com/jsgroth/jgenesis/releases/latest/download/jgenesis-windows-x86_64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/jgenesis-windows-x86_64.zip",
     "filename": "jgenesis-windows-x86_64.zip",
     "extract": "zip",
     "version": "",
@@ -916,7 +916,7 @@
     "systems": [
       "Camputers Lynx"
     ],
-    "url": "https://github.com/jonathan-markland/Jynx/releases/latest/download/Jynx-Windows-64bit.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/Jynx-Windows-64bit.zip",
     "filename": "Jynx-Windows-64bit.zip",
     "extract": "zip",
     "version": "",
@@ -938,7 +938,7 @@
     "systems": [
       "Sega Saturn"
     ],
-    "url": "https://github.com/FCare/Kronos/releases/latest/download/kronos-windows-x86_64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/kronos-windows-x86_64.zip",
     "filename": "kronos-windows-x86_64.zip",
     "extract": "zip",
     "version": "",
@@ -1059,8 +1059,8 @@
     "systems": [
       "Nintendo 3DS"
     ],
-    "url": "https://github.com/ptyfyre/mandarine-neo/releases/latest/download/mandarine-windows.zip",
-    "filename": "mandarine-windows.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/mandarine-windows-msvc.zip",
+    "filename": "mandarine-windows-msvc.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mandarine-logo.svg",
@@ -1140,8 +1140,8 @@
       "Nintendo DS",
       "Nintendo DSi"
     ],
-    "url": "https://github.com/melonDS-emu/melonDS/releases/latest/download/melonDS_windows_x64.zip",
-    "filename": "melonDS_windows_x64.zip",
+    "url": "https://github.com/melonDS-emu/melonDS/releases/latest/download/melonDS-1.1-windows-x86_64.zip",
+    "filename": "melonDS-1.1-windows-x86_64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/melonds-logo.png",
@@ -1169,7 +1169,7 @@
       "Sega Master System",
       "PC Engine"
     ],
-    "url": "https://github.com/SourMesen/Mesen2/releases/latest/download/Mesen_Windows.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/Mesen_Windows.zip",
     "filename": "Mesen_Windows.zip",
     "extract": "zip",
     "version": "",
@@ -1193,7 +1193,7 @@
       "Nintendo Game Boy Color",
       "Nintendo Game Boy Advance"
     ],
-    "url": "https://github.com/mgba-emu/mgba/releases/latest/download/mGBA-win64.7z",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/mGBA-win64.7z",
     "filename": "mGBA-win64.7z",
     "extract": "7z",
     "version": "",
@@ -1215,8 +1215,8 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "https://github.com/Rosalie241/RMG/releases/latest/download/RMG-Windows-Portable-x86_64.zip",
-    "filename": "RMG-Windows-Portable-x86_64.zip",
+    "url": "https://github.com/Rosalie241/RMG/releases/latest/download/RMG-Portable-Windows64-v0.8.9.zip",
+    "filename": "RMG-Portable-Windows64-v0.8.9.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/rmg-logo.png",
@@ -1260,8 +1260,8 @@
       "Nintendo NES",
       "Nintendo Famicom"
     ],
-    "url": "https://github.com/0ldsk00l/nestopia/releases/latest/download/nestopia-win32.zip",
-    "filename": "nestopia-win32.zip",
+    "url": "https://github.com/0ldsk00l/nestopia/releases/latest/download/nestopia_1.53.2-win32.zip",
+    "filename": "nestopia_1.53.2-win32.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/nestopia-logo.png",
@@ -1308,7 +1308,7 @@
       "MSX2+",
       "MSX Turbo R"
     ],
-    "url": "https://github.com/openMSX/openMSX/releases/latest/download/openmsx-windows-vc-x64-bin.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/openmsx-windows-vc-x64-bin.zip",
     "filename": "openmsx-windows-vc-x64-bin.zip",
     "extract": "zip",
     "version": "",
@@ -1353,8 +1353,8 @@
     "systems": [
       "Sony PlayStation 2"
     ],
-    "url": "https://github.com/PCSX2/pcsx2/releases/latest/download/pcsx2-windows-x64-Qt.7z",
-    "filename": "pcsx2-windows-x64-Qt.7z",
+    "url": "https://github.com/PCSX2/pcsx2/releases/latest/download/pcsx2-v2.6.3-windows-x64-Qt.7z",
+    "filename": "pcsx2-v2.6.3-windows-x64-Qt.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/pcsx2-logo.png",
@@ -1442,8 +1442,8 @@
     "systems": [
       "Sony PSP"
     ],
-    "url": "https://github.com/hrydgard/ppsspp/releases/latest/download/ppsspp_win.zip",
-    "filename": "ppsspp_win.zip",
+    "url": "https://github.com/hrydgard/ppsspp/releases/latest/download/PPSSPP-v1.20.4-Windows-x64.zip",
+    "filename": "PPSSPP-v1.20.4-Windows-x64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ppsspp-logo.png",
@@ -1488,7 +1488,7 @@
       "Nintendo Famicom",
       "Nintendo Famicom Disk System"
     ],
-    "url": "https://github.com/punesemu/puNES/releases/latest/download/puNES-win64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/puNES-win64.zip",
     "filename": "puNES-win64.zip",
     "extract": "zip",
     "version": "",
@@ -1683,8 +1683,8 @@
     "systems": [
       "Sony PlayStation 4"
     ],
-    "url": "https://github.com/shadps4-emu/shadPS4/releases/latest/download/shadps4-win64-qt-release.zip",
-    "filename": "shadps4-win64-qt-release.zip",
+    "url": "https://github.com/shadps4-emu/shadPS4/releases/latest/download/shadps4-win64-sdl-0.16.0.zip",
+    "filename": "shadps4-win64-sdl-0.16.0.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/shadps4-logo.png",
@@ -1705,7 +1705,7 @@
     "systems": [
       "SAM Coupe"
     ],
-    "url": "https://github.com/simonowen/simcoupe/releases/latest/download/SimCoupe-win_x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/SimCoupe-win_x64.zip",
     "filename": "SimCoupe-win_x64.zip",
     "extract": "zip",
     "version": "",
@@ -1727,7 +1727,7 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "https://github.com/simple64/simple64/releases/latest/download/simple64-win64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/simple64-win64.zip",
     "filename": "simple64-win64.zip",
     "extract": "zip",
     "version": "",
@@ -1750,7 +1750,7 @@
       "Nintendo SNES",
       "Nintendo Super Famicom"
     ],
-    "url": "https://github.com/snes9xgit/snes9x/releases/latest/download/snes9x-win32-x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/snes9x-win32-x64.zip",
     "filename": "snes9x-win32-x64.zip",
     "extract": "zip",
     "version": "",
@@ -1818,8 +1818,8 @@
     "systems": [
       "Atari 2600"
     ],
-    "url": "https://github.com/stella-emu/stella/releases/latest/download/Stella-windows-x86_64.zip",
-    "filename": "Stella-windows-x86_64.zip",
+    "url": "https://github.com/stella-emu/stella/releases/latest/download/Stella-7.0c-windows.zip",
+    "filename": "Stella-7.0c-windows.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/stella-logo.png",
@@ -1932,8 +1932,8 @@
       "MS-DOS",
       "Dark Forces"
     ],
-    "url": "https://github.com/luciusDXL/TheForceEngine/releases/latest/download/TheForceEngine.zip",
-    "filename": "TheForceEngine.zip",
+    "url": "https://github.com/luciusDXL/TheForceEngine/releases/latest/download/TheForceEngine-v1.22.420.zip",
+    "filename": "TheForceEngine-v1.22.420.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/forceengine-logo.png",
@@ -1998,8 +1998,8 @@
     "systems": [
       "Virtual Pinball"
     ],
-    "url": "https://github.com/vpinball/vpinball/releases/latest/download/VPinballX_GL_standalone-win-x64.zip",
-    "filename": "VPinballX_GL_standalone-win-x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/VPinballX_GL-win-x64.zip",
+    "filename": "VPinballX_GL-win-x64.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/vpinball-logo.png",
@@ -2069,8 +2069,8 @@
       "Microsoft Xbox",
       "Sega Chihiro"
     ],
-    "url": "https://github.com/xemu-project/xemu/releases/latest/download/xemu-win-release.zip",
-    "filename": "xemu-win-release.zip",
+    "url": "https://github.com/xemu-project/xemu/releases/latest/download/xemu-win-x86_64-release.zip",
+    "filename": "xemu-win-x86_64-release.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xemu-logo.png",
@@ -2113,8 +2113,8 @@
     "systems": [
       "Microsoft Xbox 360"
     ],
-    "url": "https://github.com/xenia-manager/xenia-manager/releases/latest/download/xenia-manager.zip",
-    "filename": "xenia-manager.zip",
+    "url": "https://github.com/xenia-manager/xenia-manager/releases/latest/download/xenia_manager.zip",
+    "filename": "xenia_manager.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xenia-manager-logo.png",
@@ -2135,8 +2135,8 @@
     "systems": [
       "Microsoft Xbox 360"
     ],
-    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary.zip",
-    "filename": "xenia_canary.zip",
+    "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/latest/download/xenia_canary_windows.zip",
+    "filename": "xenia_canary_windows.zip",
     "extract": "zip",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xenia-logo.png",
@@ -2226,7 +2226,7 @@
     "systems": [
       "Sega Saturn"
     ],
-    "url": "https://github.com/StrikerX3/Ymir/releases/latest/download/Ymir-windows-x64.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/Ymir-windows-x64.zip",
     "filename": "Ymir-windows-x64.zip",
     "extract": "zip",
     "version": "",
@@ -2253,7 +2253,7 @@
       "Sam Coupe",
       "Jupiter Ace"
     ],
-    "url": "https://github.com/chernandezba/zesarux/releases/latest/download/ZEsarUX_windows.zip",
+    "url": "https://github.com/hgbman/assets/releases/latest/download/ZEsarUX_windows.zip",
     "filename": "ZEsarUX_windows.zip",
     "extract": "zip",
     "version": "",
