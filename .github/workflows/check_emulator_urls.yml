@@ -14,23 +14,35 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Crear script de verificacion
+      - name: Verificar URLs
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cat > check_urls.py << 'PYEOF'
-          import json, urllib.request, urllib.error, os, sys
+          python3 - << 'PYEOF'
+          import json, urllib.request, urllib.error, os, sys, re
+
           BROKEN = []
-          OK = []
+          OK     = []
+
           with open("emulators.json", encoding="utf-8") as f:
               data = json.load(f)
+
           token = os.environ.get("GH_TOKEN", "")
-          headers = {"User-Agent": "HGB-URLChecker/1.0"}
+          headers_html = {"User-Agent": "Mozilla/5.0"}
+          headers_api  = {
+              "User-Agent": "HGB-URLChecker/1.0",
+              "Accept": "application/vnd.github+json",
+          }
           if token:
-              headers["Authorization"] = f"Bearer {token}"
+              headers_api["Authorization"] = f"Bearer {token}"
+
           entries = [(e["name"], e["url"]) for e in data if e.get("url", "")]
-          print(f"Verificando {len(entries)} URLs...")
+          print(f"Verificando {len(entries)} URLs...\n")
+
           for name, url in entries:
               try:
-                  req = urllib.request.Request(url, method="HEAD", headers=headers)
+                  req = urllib.request.Request(url, method="HEAD", headers=headers_api)
                   with urllib.request.urlopen(req, timeout=20) as resp:
                       code = resp.status
                       if code < 400:
@@ -41,31 +53,48 @@ jobs:
                           BROKEN.append((name, url, code))
               except urllib.error.HTTPError as e:
                   print(f"  ERR [{e.code}] {name} -> {url}")
-                  BROKEN.append((name, url, e.code))
+                  # Si es 404 en GitHub, intentar obtener el filename real
+                  if e.code == 404 and "github.com" in url and "/releases/latest/download/" in url:
+                      m = re.match(r"https://github\.com/([^/]+/[^/]+)/releases/latest/download/(.+)", url)
+                      if m:
+                          repo, fn = m.group(1), m.group(2)
+                          api_url = f"https://api.github.com/repos/{repo}/releases/latest"
+                          try:
+                              api_req = urllib.request.Request(api_url, headers=headers_api)
+                              with urllib.request.urlopen(api_req, timeout=10) as ar:
+                                  release = json.loads(ar.read())
+                              assets = [a["name"] for a in release.get("assets", [])]
+                              win = [a for a in assets if any(k in a.lower() for k in ["win","x64","x86_64","windows"]) and any(a.lower().endswith(e) for e in [".zip",".7z",".exe"])]
+                              hint = f" | Disponibles: {win}" if win else f" | Sin assets Windows. Todos: {assets[:5]}"
+                          except Exception as ae:
+                              hint = f" | API error: {ae}"
+                          BROKEN.append((name, url, f"{e.code}{hint}"))
+                      else:
+                          BROKEN.append((name, url, e.code))
+                  else:
+                      BROKEN.append((name, url, e.code))
               except Exception as e:
                   print(f"  ERR [---] {name} -> {url} ({e})")
                   BROKEN.append((name, url, str(e)))
+
           print(f"\nResultado: {len(OK)} OK, {len(BROKEN)} con problemas")
+
           with open("/tmp/broken_urls.txt", "w") as f:
               for name, url, code in BROKEN:
-                  f.write(f"- {name}: [{code}] {url}\n")
+                  f.write(f"- {name}: [{code}]\n  {url}\n")
+
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               out.write(f"broken_count={len(BROKEN)}\n")
+
           if BROKEN:
               sys.exit(1)
           PYEOF
 
-      - name: Verificar URLs
-        id: check
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 check_urls.py
-
-      - name: Preparar cuerpo del email
+      - name: Preparar email
         if: failure() && steps.check.outcome == 'failure'
         id: email_body
         run: |
-          COUNT=$(wc -l < /tmp/broken_urls.txt | tr -d ' ')
+          COUNT=$(grep -c "^-" /tmp/broken_urls.txt | tr -d ' ')
           LISTA=$(cat /tmp/broken_urls.txt)
           echo "body<<EMAILEOF" >> "$GITHUB_OUTPUT"
           echo "Se detectaron URLs con problemas en el emulators.json." >> "$GITHUB_OUTPUT"
@@ -74,7 +103,7 @@ jobs:
           echo "" >> "$GITHUB_OUTPUT"
           echo "${LISTA}" >> "$GITHUB_OUTPUT"
           echo "" >> "$GITHUB_OUTPUT"
-          echo "Log completo: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> "$GITHUB_OUTPUT"
+          echo "Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> "$GITHUB_OUTPUT"
           echo "EMAILEOF" >> "$GITHUB_OUTPUT"
 
       - name: Enviar email
@@ -94,10 +123,10 @@ jobs:
       - name: Resumen
         if: always()
         run: |
-          echo "### Resultado de verificacion de URLs" >> $GITHUB_STEP_SUMMARY
+          echo "### Verificacion de URLs" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.check.outcome }}" = "success" ]; then
             echo "Todas las URLs responden correctamente." >> $GITHUB_STEP_SUMMARY
           else
-            echo "Hay URLs con problemas:" >> $GITHUB_STEP_SUMMARY
+            echo "URLs con problemas:" >> $GITHUB_STEP_SUMMARY
             cat /tmp/broken_urls.txt >> $GITHUB_STEP_SUMMARY
           fi
