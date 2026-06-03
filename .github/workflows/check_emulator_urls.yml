@@ -2,6 +2,7 @@ name: Verificar URLs de emuladores
 
 on:
   schedule:
+    # 09:00 UTC = 06:00 Argentina (ART, UTC-3)
     - cron: '0 9 * * *'
   workflow_dispatch:
 
@@ -14,99 +15,127 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Verificar URLs
+      - name: Verificar URLs del emulators.json
         id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 - << 'PYEOF'
-          import json, urllib.request, urllib.error, os, sys, re
+          python3 << 'PYEOF'
+          import json
+          import urllib.request
+          import urllib.error
+          import os
+          import sys
 
-          BROKEN = []
-          OK     = []
+          EMULATORS_JSON = "emulators.json"
+          TIMEOUT        = 20
+          BROKEN         = []
+          OK             = []
 
-          with open("emulators.json", encoding="utf-8") as f:
+          with open(EMULATORS_JSON, encoding="utf-8") as f:
               data = json.load(f)
 
           token = os.environ.get("GH_TOKEN", "")
-          headers_html = {"User-Agent": "Mozilla/5.0"}
-          headers_api  = {
-              "User-Agent": "HGB-URLChecker/1.0",
-              "Accept": "application/vnd.github+json",
-          }
+          headers_base = {"User-Agent": "HGB-URLChecker/1.0"}
           if token:
-              headers_api["Authorization"] = f"Bearer {token}"
+              headers_base["Authorization"] = f"Bearer {token}"
 
-          entries = [(e["name"], e["url"]) for e in data if e.get("url", "")]
-          print(f"Verificando {len(entries)} URLs...\n")
+          GH_RELEASE_PREFIX = "github-release:"
 
-          for name, url in entries:
+          def resolve_github_release(name, url):
+              """
+              Resuelve github-release:owner/repo/tag consultando la API de GitHub.
+              Devuelve (browser_download_url, asset_name) o lanza excepciÃ³n.
+              """
+              path  = url[len(GH_RELEASE_PREFIX):]
+              parts = path.split("/", 2)
+              if len(parts) < 3:
+                  raise ValueError(f"Formato invÃ¡lido: {url}")
+              owner, repo, tag = parts
+              api_url = f"https://api.github.com/repos/{owner}/{repo}/releases/tags/{tag}"
+              req = urllib.request.Request(api_url, headers={
+                  **headers_base,
+                  "Accept": "application/vnd.github+json",
+                  "X-GitHub-Api-Version": "2022-11-28",
+              })
+              with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                  release = json.loads(resp.read())
+              assets = release.get("assets", [])
+              if not assets:
+                  raise ValueError(f"Release '{tag}' no tiene assets")
+              exts = (".7z", ".zip", ".exe")
+              for asset in assets:
+                  dl = asset.get("browser_download_url", "")
+                  if any(asset["name"].lower().endswith(e) for e in exts) and dl:
+                      return dl, asset["name"]
+              raise ValueError(f"NingÃºn asset descargable en release '{tag}'")
+
+          entries_with_url = [(e["name"], e["url"]) for e in data if e.get("url", "")]
+          print(f"Verificando {len(entries_with_url)} URLs...\n")
+
+          for name, url in entries_with_url:
               try:
-                  req = urllib.request.Request(url, method="HEAD", headers=headers_api)
-                  with urllib.request.urlopen(req, timeout=20) as resp:
-                      code = resp.status
-                      if code < 400:
-                          print(f"  OK  [{code}] {name}")
-                          OK.append((name, url, code))
-                      else:
-                          print(f"  ERR [{code}] {name} -> {url}")
-                          BROKEN.append((name, url, code))
-              except urllib.error.HTTPError as e:
-                  print(f"  ERR [{e.code}] {name} -> {url}")
-                  # Si es 404 en GitHub, intentar obtener el filename real
-                  if e.code == 404 and "github.com" in url and "/releases/latest/download/" in url:
-                      m = re.match(r"https://github\.com/([^/]+/[^/]+)/releases/latest/download/(.+)", url)
-                      if m:
-                          repo, fn = m.group(1), m.group(2)
-                          api_url = f"https://api.github.com/repos/{repo}/releases/latest"
-                          try:
-                              api_req = urllib.request.Request(api_url, headers=headers_api)
-                              with urllib.request.urlopen(api_req, timeout=10) as ar:
-                                  release = json.loads(ar.read())
-                              assets = [a["name"] for a in release.get("assets", [])]
-                              win = [a for a in assets if any(k in a.lower() for k in ["win","x64","x86_64","windows"]) and any(a.lower().endswith(e) for e in [".zip",".7z",".exe"])]
-                              hint = f" | Disponibles: {win}" if win else f" | Sin assets Windows. Todos: {assets[:5]}"
-                          except Exception as ae:
-                              hint = f" | API error: {ae}"
-                          BROKEN.append((name, url, f"{e.code}{hint}"))
-                      else:
-                          BROKEN.append((name, url, e.code))
+                  if url.startswith(GH_RELEASE_PREFIX):
+                      # Esquema interno HGB: resolver vÃ­a API de GitHub
+                      dl_url, asset_name = resolve_github_release(name, url)
+                      print(f"  OK  [gh-release] {name}  ->  {asset_name}")
+                      OK.append((name, url, "gh-release"))
                   else:
-                      BROKEN.append((name, url, e.code))
+                      req = urllib.request.Request(url, method="HEAD", headers=headers_base)
+                      with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                          code = resp.status
+                          if code < 400:
+                              print(f"  OK  [{code}] {name}")
+                              OK.append((name, url, code))
+                          else:
+                              print(f"  ERR [{code}] {name}  ->  {url}")
+                              BROKEN.append((name, url, code))
+              except urllib.error.HTTPError as e:
+                  print(f"  ERR [{e.code}] {name}  ->  {url}")
+                  BROKEN.append((name, url, e.code))
               except Exception as e:
-                  print(f"  ERR [---] {name} -> {url} ({e})")
+                  print(f"  ERR [---] {name}  ->  {url}  ({e})")
                   BROKEN.append((name, url, str(e)))
 
           print(f"\nResultado: {len(OK)} OK, {len(BROKEN)} con problemas")
 
+          # Escribir lista de rotas en archivo para el paso de email
           with open("/tmp/broken_urls.txt", "w") as f:
-              for name, url, code in BROKEN:
-                  f.write(f"- {name}: [{code}]\n  {url}\n")
+              if BROKEN:
+                  for name, url, code in BROKEN:
+                      f.write(f"- {name}: [{code}] {url}\n")
+              else:
+                  f.write("")
 
+          # Escribir output
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               out.write(f"broken_count={len(BROKEN)}\n")
+              out.write(f"ok_count={len(OK)}\n")
 
           if BROKEN:
               sys.exit(1)
           PYEOF
 
-      - name: Preparar email
+      - name: Preparar cuerpo del email
         if: failure() && steps.check.outcome == 'failure'
         id: email_body
         run: |
-          COUNT=$(grep -c "^-" /tmp/broken_urls.txt | tr -d ' ')
-          LISTA=$(cat /tmp/broken_urls.txt)
-          echo "body<<EMAILEOF" >> "$GITHUB_OUTPUT"
-          echo "Se detectaron URLs con problemas en el emulators.json." >> "$GITHUB_OUTPUT"
-          echo "" >> "$GITHUB_OUTPUT"
-          echo "${COUNT} URL(s) fallaron:" >> "$GITHUB_OUTPUT"
-          echo "" >> "$GITHUB_OUTPUT"
-          echo "${LISTA}" >> "$GITHUB_OUTPUT"
-          echo "" >> "$GITHUB_OUTPUT"
-          echo "Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> "$GITHUB_OUTPUT"
-          echo "EMAILEOF" >> "$GITHUB_OUTPUT"
+          BROKEN_LIST=$(cat /tmp/broken_urls.txt 2>/dev/null || echo "Ver log del workflow para detalles.")
+          COUNT=$(grep -c "^-" /tmp/broken_urls.txt 2>/dev/null || echo "?")
+          {
+            echo "body<<EMAIL_BODY_EOF"
+            echo "Se detectaron URLs con problemas en el emulators.json."
+            echo ""
+            echo "${COUNT} URL(s) fallaron:"
+            echo ""
+            echo "${BROKEN_LIST}"
+            echo ""
+            echo "Ver el log completo en:"
+            echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo "EMAIL_BODY_EOF"
+          } >> "$GITHUB_OUTPUT"
 
-      - name: Enviar email
+      - name: Enviar email si hay URLs rotas
         if: failure() && steps.check.outcome == 'failure'
         uses: dawidd6/action-send-mail@v3
         with:
@@ -115,18 +144,21 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "HGB - URLs de emuladores rotas (${{ github.run_id }})"
+          subject: "âš ï¸ HGB â€” URLs de emuladores rotas (${{ github.run_id }})"
           to: millansoft@gmail.com
           from: "HGB Monitor <${{ secrets.MAIL_USERNAME }}>"
           body: ${{ steps.email_body.outputs.body }}
 
-      - name: Resumen
+      - name: Resumen en el workflow
         if: always()
         run: |
-          echo "### Verificacion de URLs" >> $GITHUB_STEP_SUMMARY
+          echo "### Resultado de verificaciÃ³n de URLs" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.check.outcome }}" = "success" ]; then
-            echo "Todas las URLs responden correctamente." >> $GITHUB_STEP_SUMMARY
+            echo "âœ… Todas las URLs responden correctamente." >> $GITHUB_STEP_SUMMARY
           else
-            echo "URLs con problemas:" >> $GITHUB_STEP_SUMMARY
-            cat /tmp/broken_urls.txt >> $GITHUB_STEP_SUMMARY
+            echo "âŒ Hay URLs con problemas. Revisar el log o el email enviado a millansoft@gmail.com" >> $GITHUB_STEP_SUMMARY
+            if [ -f /tmp/broken_urls.txt ]; then
+              echo "" >> $GITHUB_STEP_SUMMARY
+              cat /tmp/broken_urls.txt >> $GITHUB_STEP_SUMMARY
+            fi
           fi
