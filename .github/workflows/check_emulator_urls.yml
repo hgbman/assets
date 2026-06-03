@@ -43,10 +43,8 @@ jobs:
           GH_RELEASE_PREFIX = "github-release:"
 
           def resolve_github_release(name, url):
-              """
-              Resuelve github-release:owner/repo/tag consultando la API de GitHub.
-              Devuelve (browser_download_url, asset_name) o lanza excepciÃ³n.
-              """
+              # Resuelve github-release:owner/repo/tag via API de GitHub.
+              # Devuelve (browser_download_url, asset_name) o lanza excepcion.
               path  = url[len(GH_RELEASE_PREFIX):]
               parts = path.split("/", 2)
               if len(parts) < 3:
