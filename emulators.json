@@ -21,7 +21,8 @@
       "it": "Emulatore Atari 8-bits / Atari XL/XE / Atari 5200."
     },
     "sha256": "",
-    "homepage": "https://www.virtualdub.org/altirra.html"
+    "homepage": "https://www.virtualdub.org/altirra.html",
+    "install_name": "Altirra"
   },
   {
     "name": "applewin",
@@ -43,7 +44,8 @@
       "it": "Emulatore Apple II."
     },
     "sha256": "",
-    "homepage": "https://github.com/AppleWin/AppleWin"
+    "homepage": "https://github.com/AppleWin/AppleWin",
+    "install_name": "AppleWin"
   },
   {
     "name": "AquaLite",
@@ -98,7 +100,8 @@
       "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine."
     },
     "sha256": "",
-    "homepage": "https://ares-emu.net"
+    "homepage": "https://ares-emu.net",
+    "install_name": "Ares"
   },
   {
     "name": "azahar",
@@ -120,7 +123,8 @@
       "it": "Emulatore Nintendo 3DS."
     },
     "sha256": "",
-    "homepage": "https://azahar-emu.org"
+    "homepage": "https://azahar-emu.org",
+    "install_name": "Azahar"
   },
   {
     "name": "beebem",
@@ -143,7 +147,8 @@
       "it": "Emulatore BBC Micro / BBC Master 128."
     },
     "sha256": "",
-    "homepage": "https://github.com/stardot/beebem-windows"
+    "homepage": "https://github.com/stardot/beebem-windows",
+    "install_name": "BeebEm"
   },
   {
     "name": "bgb",
@@ -166,7 +171,8 @@
       "it": "Emulatore Nintendo Game Boy / Nintendo Game Boy Color."
     },
     "sha256": "",
-    "homepage": "https://bgb.bircd.org"
+    "homepage": "https://bgb.bircd.org",
+    "install_name": "bgbw64"
   },
   {
     "name": "bigpemu",
@@ -189,7 +195,8 @@
       "it": "Emulatore Atari Jaguar / Atari Jaguar CD."
     },
     "sha256": "",
-    "homepage": "https://www.richwhitehouse.com/jaguar/"
+    "homepage": "https://www.richwhitehouse.com/jaguar/",
+    "install_name": "BigPEmu"
   },
   {
     "name": "BizHawk",
@@ -294,7 +301,8 @@
       "it": "Emulatore Nintendo 3DS."
     },
     "sha256": "",
-    "homepage": "https://github.com/PabloMK7/citra"
+    "homepage": "https://github.com/PabloMK7/citra",
+    "install_name": "Citra"
   },
   {
     "name": "citron",
@@ -316,7 +324,8 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://git.citron-emu.org/Citron/Citron"
+    "homepage": "https://git.citron-emu.org/Citron/Citron",
+    "install_name": "Citron"
   },
   {
     "name": "classic99",
@@ -338,7 +347,8 @@
       "it": "Emulatore TI-99/4A."
     },
     "sha256": "",
-    "homepage": "https://www.harmlesslion.com/software/classic99"
+    "homepage": "https://www.harmlesslion.com/software/classic99",
+    "install_name": "Classic99"
   },
   {
     "name": "cxbx-reloaded",
@@ -361,7 +371,8 @@
       "it": "Emulatore Microsoft Xbox / Sega Chihiro."
     },
     "sha256": "",
-    "homepage": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded"
+    "homepage": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded",
+    "install_name": "CxbxReloaded"
   },
   {
     "name": "demul",
@@ -409,7 +420,8 @@
       "it": "Emulatore Nintendo DS."
     },
     "sha256": "",
-    "homepage": "https://desmume.org"
+    "homepage": "https://desmume.org",
+    "install_name": "DeSmuME"
   },
   {
     "name": "Dolphin-x64",
@@ -457,7 +469,8 @@
       "it": "Emulatore MS-DOS / Windows 3.x / Windows 95."
     },
     "sha256": "",
-    "homepage": "https://dosbox-staging.github.io"
+    "homepage": "https://dosbox-staging.github.io",
+    "install_name": "DOSBox"
   },
   {
     "name": "DuckStation",
@@ -501,7 +514,8 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://git.eden-emu.dev/eden-emu/eden"
+    "homepage": "https://git.eden-emu.dev/eden-emu/eden",
+    "install_name": "Eden"
   },
   {
     "name": "eka2l1",
@@ -524,7 +538,8 @@
       "it": "Emulatore Nokia N-Gage / Symbian OS."
     },
     "sha256": "",
-    "homepage": "https://github.com/EKA2L1/EKA2L1"
+    "homepage": "https://github.com/EKA2L1/EKA2L1",
+    "install_name": "EKA2L1"
   },
   {
     "name": "Fceux",
@@ -594,7 +609,8 @@
       "it": "Emulatore Virtual Pinball."
     },
     "sha256": "",
-    "homepage": "https://futurepinball.com"
+    "homepage": "https://futurepinball.com",
+    "install_name": "Future Pinball"
   },
   {
     "name": "fuse",
@@ -616,7 +632,8 @@
       "it": "Emulatore Sinclair ZX Spectrum."
     },
     "sha256": "",
-    "homepage": "https://fuse-emulator.sourceforge.net"
+    "homepage": "https://fuse-emulator.sourceforge.net",
+    "install_name": "Fuse"
   },
   {
     "name": "genieous",
@@ -638,7 +655,8 @@
       "it": "Emulatore EACA EG2000 Colour Genie."
     },
     "sha256": "",
-    "homepage": "http://gaia.atilia.eu/genieous"
+    "homepage": "http://gaia.atilia.eu/genieous",
+    "install_name": "Genieous"
   },
   {
     "name": "gopher64",
@@ -686,7 +704,8 @@
       "it": "Emulatore Doom / Doom II / Heretic / Hexen / Strife."
     },
     "sha256": "",
-    "homepage": "https://zdoom.org"
+    "homepage": "https://zdoom.org",
+    "install_name": "GZDoom"
   },
   {
     "name": "hatari",
@@ -711,7 +730,8 @@
       "it": "Emulatore Atari ST / Atari STE / Atari TT / Atari Falcon."
     },
     "sha256": "",
-    "homepage": "https://hatari.tuxfamily.org"
+    "homepage": "https://hatari.tuxfamily.org",
+    "install_name": "Hatari"
   },
   {
     "name": "hypseus",
@@ -733,7 +753,8 @@
       "it": "Emulatore Laserdisc Arcade."
     },
     "sha256": "",
-    "homepage": "https://github.com/DirtBagXon/hypseus-singe"
+    "homepage": "https://github.com/DirtBagXon/hypseus-singe",
+    "install_name": "Hypseus Singe"
   },
   {
     "name": "jynx",
@@ -755,7 +776,8 @@
       "it": "Emulatore Camputers Lynx."
     },
     "sha256": "",
-    "homepage": "https://github.com/jonathan-markland/Jynx"
+    "homepage": "https://github.com/jonathan-markland/Jynx",
+    "install_name": "Jynx"
   },
   {
     "name": "lime3ds",
@@ -777,7 +799,8 @@
       "it": "Emulatore Nintendo 3DS."
     },
     "sha256": "",
-    "homepage": "https://github.com/azahar-emu/azahar"
+    "homepage": "https://github.com/azahar-emu/azahar",
+    "install_name": "Lime3DS"
   },
   {
     "name": "m2emulator",
@@ -799,7 +822,8 @@
       "it": "Emulatore Sega Model 2."
     },
     "sha256": "",
-    "homepage": "http://nebula.emulatronia.com"
+    "homepage": "http://nebula.emulatronia.com",
+    "install_name": "Sega Model 2"
   },
   {
     "name": "MAME",
@@ -888,7 +912,8 @@
       "it": "Emulatore Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision."
     },
     "sha256": "",
-    "homepage": "https://github.com/ocornut/meka"
+    "homepage": "https://github.com/ocornut/meka",
+    "install_name": "Meka"
   },
   {
     "name": "melonds",
@@ -964,7 +989,8 @@
       "it": "Emulatore Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance."
     },
     "sha256": "",
-    "homepage": "https://mgba.io"
+    "homepage": "https://mgba.io",
+    "install_name": "mGBA"
   },
   {
     "name": "MVEM",
@@ -1057,7 +1083,8 @@
       "it": "Emulatore Oric-1 / Oric Atmos."
     },
     "sha256": "",
-    "homepage": "https://github.com/pete-gordon/oricutron"
+    "homepage": "https://github.com/pete-gordon/oricutron",
+    "install_name": "Oricutron"
   },
   {
     "name": "PCSX2",
@@ -1123,7 +1150,8 @@
       "it": "Emulatore Sony PSP."
     },
     "sha256": "",
-    "homepage": "https://www.ppsspp.org"
+    "homepage": "https://www.ppsspp.org",
+    "install_name": "PPSSPP"
   },
   {
     "name": "project64",
@@ -1145,7 +1173,8 @@
       "it": "Emulatore Nintendo 64."
     },
     "sha256": "",
-    "homepage": "https://www.pj64-emu.com"
+    "homepage": "https://www.pj64-emu.com",
+    "install_name": "Project64"
   },
   {
     "name": "punes",
@@ -1169,7 +1198,8 @@
       "it": "Emulatore Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System."
     },
     "sha256": "",
-    "homepage": "https://github.com/punesemu/puNES"
+    "homepage": "https://github.com/punesemu/puNES",
+    "install_name": "puNES"
   },
   {
     "name": "Redream",
@@ -1248,7 +1278,8 @@
       "it": "Emulatore Sony PlayStation 3."
     },
     "sha256": "",
-    "homepage": "https://rpcs3.net"
+    "homepage": "https://rpcs3.net",
+    "install_name": "RPCS3"
   },
   {
     "name": "ryujinx",
@@ -1270,7 +1301,8 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://github.com/Kenji-NX/Releases"
+    "homepage": "https://github.com/Kenji-NX/Releases",
+    "install_name": "Ryujinx"
   },
   {
     "name": "ScummVM",
@@ -1318,7 +1350,8 @@
       "it": "Emulatore Sony PlayStation 4."
     },
     "sha256": "",
-    "homepage": "https://shadps4.net"
+    "homepage": "https://shadps4.net",
+    "install_name": "shadPS4"
   },
   {
     "name": "SimCoupe",
@@ -1362,7 +1395,8 @@
       "it": "Emulatore Nintendo 64."
     },
     "sha256": "",
-    "homepage": "https://github.com/simple64/simple64"
+    "homepage": "https://github.com/simple64/simple64",
+    "install_name": "Simple64"
   },
   {
     "name": "Snes9x",
@@ -1409,7 +1443,8 @@
       "it": "Emulatore Atari ST / Atari STE / Atari Mega ST."
     },
     "sha256": "",
-    "homepage": "https://sourceforge.net/projects/steemsse/"
+    "homepage": "https://sourceforge.net/projects/steemsse/",
+    "install_name": "Steem SSE"
   },
   {
     "name": "stella",
@@ -1431,7 +1466,8 @@
       "it": "Emulatore Atari 2600."
     },
     "sha256": "",
-    "homepage": "https://stella-emu.github.io"
+    "homepage": "https://stella-emu.github.io",
+    "install_name": "Stella"
   },
   {
     "name": "supermodel",
@@ -1453,7 +1489,8 @@
       "it": "Emulatore Sega Model 3."
     },
     "sha256": "",
-    "homepage": "https://supermodel3.com"
+    "homepage": "https://supermodel3.com",
+    "install_name": "SuperModel"
   },
   {
     "name": "Vita3K",
@@ -1497,7 +1534,8 @@
       "it": "Emulatore Virtual Pinball."
     },
     "sha256": "",
-    "homepage": "https://github.com/vpinball/vpinball"
+    "homepage": "https://github.com/vpinball/vpinball",
+    "install_name": "Visual Pinball"
   },
   {
     "name": "winarcadia",
@@ -1521,7 +1559,8 @@
       "it": "Emulatore Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II."
     },
     "sha256": "",
-    "homepage": "https://amigan.yatho.com"
+    "homepage": "https://amigan.yatho.com",
+    "install_name": "WinArcadia"
   },
   {
     "name": "WinUAE",
@@ -1568,7 +1607,8 @@
       "it": "Emulatore Microsoft Xbox / Sega Chihiro."
     },
     "sha256": "",
-    "homepage": "https://xemu.app"
+    "homepage": "https://xemu.app",
+    "install_name": "Xemu"
   },
   {
     "name": "Xenia",
@@ -1614,7 +1654,8 @@
       "it": "Emulatore Dragon 32 / Dragon 64 / Tandy CoCo."
     },
     "sha256": "",
-    "homepage": "https://www.6809.org.uk/xroar/"
+    "homepage": "https://www.6809.org.uk/xroar/",
+    "install_name": "Xroar"
   },
   {
     "name": "yabasanshiro",
@@ -1636,7 +1677,8 @@
       "it": "Emulatore Sega Saturn."
     },
     "sha256": "",
-    "homepage": "https://github.com/devmiyax/yabause"
+    "homepage": "https://github.com/devmiyax/yabause",
+    "install_name": "Yaba Sanshiro"
   },
   {
     "name": "yape",
@@ -1659,7 +1701,8 @@
       "it": "Emulatore Commodore 16 / Commodore Plus/4."
     },
     "sha256": "",
-    "homepage": "http://yape.plus4.net"
+    "homepage": "http://yape.plus4.net",
+    "install_name": "Yape"
   },
   {
     "name": "ymir",
@@ -1681,7 +1724,8 @@
       "it": "Emulatore Sega Saturn."
     },
     "sha256": "",
-    "homepage": "https://github.com/StrikerX3/Ymir"
+    "homepage": "https://github.com/StrikerX3/Ymir",
+    "install_name": "Ymir"
   },
   {
     "name": "ZEsarUX",
@@ -1753,7 +1797,8 @@
       "de": "Matra-Hachette Alice 32 / Alice 90 / Alice 4K / Tandy MC10-Emulator.",
       "fr": "Émulateur Matra-Hachette Alice 32 / Alice 90 / Alice 4K / Tandy MC10.",
       "it": "Emulatore Matra-Hachette Alice 32 / Alice 90 / Alice 4K / Tandy MC10."
-    }
+    },
+    "install_name": "DCAlice"
   },
   {
     "name": "dcexel",
@@ -1773,7 +1818,8 @@
       "de": "Exelvision EXL 100-Emulator.",
       "fr": "Émulateur Exelvision EXL 100.",
       "it": "Emulatore Exelvision EXL 100."
-    }
+    },
+    "install_name": "DCExel"
   },
   {
     "name": "dchector",
@@ -1795,7 +1841,8 @@
       "de": "Hector HRX / Victor Lambda / Interact-Emulator.",
       "fr": "Émulateur Hector HRX / Victor Lambda / Interact.",
       "it": "Emulatore Hector HRX / Victor Lambda / Interact."
-    }
+    },
+    "install_name": "DCHector"
   },
   {
     "name": "dcvg5k",
@@ -1815,7 +1862,8 @@
       "de": "Philips VG5000µ-Emulator.",
       "fr": "Émulateur Philips VG5000µ.",
       "it": "Emulatore Philips VG5000µ."
-    }
+    },
+    "install_name": "DCVG5K"
   },
   {
     "name": "DICE",
