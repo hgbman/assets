@@ -1729,7 +1729,8 @@
       "de": "Multi-Emulator-Frontend. Erforderlich, um Spiele über HyperGameBase zu starten.",
       "fr": "Frontend multi-émulateur. Requis pour lancer des jeux depuis HyperGameBase.",
       "it": "Frontend multiemulatore. Necessario per avviare giochi da HyperGameBase."
-    }
+    },
+    "dest_relative": "RocketLauncher"
   },
   {
     "name": "dcalice",
