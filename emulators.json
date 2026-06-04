@@ -7,9 +7,9 @@
       "Atari XL/XE",
       "Atari 5200"
     ],
-    "url": "github-release:hgbman/assets/altirra",
-    "filename": "altirra.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Altirra.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/altirra-logo.png",
     "notes": {
@@ -29,9 +29,9 @@
     "systems": [
       "Apple II"
     ],
-    "url": "github-release:hgbman/assets/applewin",
-    "filename": "applewin.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "AppleWin.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/applewin-logo.png",
     "notes": {
@@ -51,9 +51,9 @@
     "systems": [
       "Mattel Aquarius"
     ],
-    "url": "github-release:hgbman/assets/aqualite",
-    "filename": "aqualite.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "AquaLite.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/aqualite-logo.png",
     "notes": {
@@ -84,9 +84,9 @@
       "Nintendo GBA",
       "PC Engine"
     ],
-    "url": "github-release:hgbman/assets/ares",
-    "filename": "ares.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Ares.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ares-logo.png",
     "notes": {
@@ -106,9 +106,9 @@
     "systems": [
       "Nintendo 3DS"
     ],
-    "url": "github-release:hgbman/assets/azahar",
-    "filename": "azahar.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Azahar.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/azahar-logo.png",
     "notes": {
@@ -129,9 +129,9 @@
       "BBC Micro",
       "BBC Master 128"
     ],
-    "url": "github-release:hgbman/assets/beebem",
-    "filename": "beebem.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "BeebEm.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/beebem-logo.png",
     "notes": {
@@ -152,9 +152,9 @@
       "Nintendo Game Boy",
       "Nintendo Game Boy Color"
     ],
-    "url": "github-release:hgbman/assets/bgb",
-    "filename": "bgb.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "bgbw64.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/bgb-logo.png",
     "notes": {
@@ -175,9 +175,9 @@
       "Atari Jaguar",
       "Atari Jaguar CD"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "BigPEmu.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/bigpemu-logo.png",
     "notes": {
@@ -212,9 +212,9 @@
       "Neo Geo Pocket",
       "WonderSwan"
     ],
-    "url": "github-release:hgbman/assets/bizhawk",
-    "filename": "bizhawk.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "BizHawk.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/bizhawk-logo.png",
     "notes": {
@@ -235,9 +235,9 @@
       "Nintendo SNES",
       "Nintendo Super Famicom"
     ],
-    "url": "github-release:hgbman/assets/bsnes",
+    "url": "github-release:hgbman/assets/latest",
     "filename": "bsnes.7z",
-    "extract": "zip",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/bsnes-logo.png",
     "notes": {
@@ -257,9 +257,9 @@
     "systems": [
       "Nintendo Wii U"
     ],
-    "url": "github-release:hgbman/assets/cemu",
-    "filename": "cemu.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Cemu.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/cemu-logo.png",
     "notes": {
@@ -280,9 +280,9 @@
     "systems": [
       "Nintendo 3DS"
     ],
-    "url": "github-release:hgbman/assets/citra",
-    "filename": "citra.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Citra.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/citra-logo.png",
     "notes": {
@@ -302,9 +302,9 @@
     "systems": [
       "Nintendo Switch"
     ],
-    "url": "github-release:hgbman/assets/citron",
-    "filename": "citron.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Citron.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/citron-logo.png",
     "notes": {
@@ -324,9 +324,9 @@
     "systems": [
       "TI-99/4A"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Classic99.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/classic99-logo.png",
     "notes": {
@@ -347,9 +347,9 @@
       "Microsoft Xbox",
       "Sega Chihiro"
     ],
-    "url": "github-release:hgbman/assets/cxbx-reloaded",
-    "filename": "cxbx-reloaded.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "CxbxReloaded.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/cxbxr-logo.png",
     "notes": {
@@ -373,9 +373,9 @@
       "Sega Atomiswave",
       "Sega Hikaru"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "none",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "demul.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/demul-logo.png",
     "notes": {
@@ -395,9 +395,9 @@
     "systems": [
       "Nintendo DS"
     ],
-    "url": "github-release:hgbman/assets/desmume",
-    "filename": "desmume.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DeSmuME.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/desmume-logo.png",
     "notes": {
@@ -418,8 +418,8 @@
       "Nintendo GameCube",
       "Nintendo Wii"
     ],
-    "url": "github-release:hgbman/assets/dolphin-x64",
-    "filename": "dolphin-x64.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Dolphin-x64.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/dolphin-logo.png",
@@ -443,9 +443,9 @@
       "Windows 3.x",
       "Windows 95"
     ],
-    "url": "github-release:hgbman/assets/dosbox",
-    "filename": "dosbox.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DOSBox.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/dosbox-logo.png",
     "notes": {
@@ -465,9 +465,9 @@
     "systems": [
       "Sony PlayStation"
     ],
-    "url": "github-release:hgbman/assets/duckstation",
-    "filename": "duckstation.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Duckstation.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/duckstation-logo.png",
     "notes": {
@@ -487,9 +487,9 @@
     "systems": [
       "Nintendo Switch"
     ],
-    "url": "github-release:hgbman/assets/eden",
-    "filename": "eden.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Eden.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/eden-logo.png",
     "notes": {
@@ -510,9 +510,9 @@
       "Nokia N-Gage",
       "Symbian OS"
     ],
-    "url": "github-release:hgbman/assets/eka2l1",
-    "filename": "eka2l1.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "EKA2L1-Windows-x86_64.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/eka2l1-logo.png",
     "notes": {
@@ -533,9 +533,9 @@
       "Nintendo NES",
       "Nintendo Famicom Disk System"
     ],
-    "url": "github-release:hgbman/assets/fceux",
-    "filename": "fceux.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Fceux.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/fceux-logo.png",
     "notes": {
@@ -558,9 +558,9 @@
       "Sega NAOMI 2",
       "Sega Atomiswave"
     ],
-    "url": "github-release:hgbman/assets/flycast",
-    "filename": "flycast.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "flycast-win64.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/flycast-logo.png",
     "notes": {
@@ -580,9 +580,9 @@
     "systems": [
       "Virtual Pinball"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Future.Pinball.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/fpinball-logo.png",
     "notes": {
@@ -602,9 +602,9 @@
     "systems": [
       "Sinclair ZX Spectrum"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Fuse.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/fuse-logo.png",
     "notes": {
@@ -624,9 +624,9 @@
     "systems": [
       "EACA EG2000 Colour Genie"
     ],
-    "url": "github-release:hgbman/assets/genieous",
-    "filename": "genieous.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Genieous.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/genieous-logo.png",
     "notes": {
@@ -646,9 +646,9 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "github-release:hgbman/assets/gopher64",
-    "filename": "gopher64.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Gopher64.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/gopher64-logo.png",
     "notes": {
@@ -672,9 +672,9 @@
       "Hexen",
       "Strife"
     ],
-    "url": "github-release:hgbman/assets/gzdoom",
-    "filename": "gzdoom.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "GZDoom.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/gzdoom-logo.png",
     "notes": {
@@ -697,9 +697,9 @@
       "Atari TT",
       "Atari Falcon"
     ],
-    "url": "github-release:hgbman/assets/hatari",
-    "filename": "hatari.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Hatari.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/hatari-logo.png",
     "notes": {
@@ -719,9 +719,9 @@
     "systems": [
       "Laserdisc Arcade"
     ],
-    "url": "github-release:hgbman/assets/hypseus",
-    "filename": "hypseus.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Hypseus.Singe.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/hypseus-logo.png",
     "notes": {
@@ -741,9 +741,9 @@
     "systems": [
       "Camputers Lynx"
     ],
-    "url": "github-release:hgbman/assets/jynx",
-    "filename": "jynx.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Jynx.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/jynx-logo.png",
     "notes": {
@@ -763,9 +763,9 @@
     "systems": [
       "Nintendo 3DS"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Lime3DS.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/lime3ds-logo.svg",
     "notes": {
@@ -785,9 +785,9 @@
     "systems": [
       "Sega Model 2"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Sega.Model.2.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/m2emulator-logo.png",
     "notes": {
@@ -816,8 +816,8 @@
       "Konami System",
       "Taito Type X"
     ],
-    "url": "github-release:hgbman/assets/mame",
-    "filename": "mame.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "MAME.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mame-logo.png",
@@ -849,9 +849,9 @@
       "WonderSwan",
       "Virtual Boy"
     ],
-    "url": "github-release:hgbman/assets/mednafen",
-    "filename": "mednafen.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Mednafen.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mednafen-logo.png",
     "notes": {
@@ -874,9 +874,9 @@
       "Sega SG-1000",
       "ColecoVision"
     ],
-    "url": "github-release:hgbman/assets/meka",
-    "filename": "meka.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Meka.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/meka-logo.png",
     "notes": {
@@ -897,9 +897,9 @@
       "Nintendo DS",
       "Nintendo DSi"
     ],
-    "url": "github-release:hgbman/assets/melonds",
-    "filename": "melonds.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "melonDS.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/melonds-logo.png",
     "notes": {
@@ -926,9 +926,9 @@
       "Sega Master System",
       "PC Engine"
     ],
-    "url": "github-release:hgbman/assets/mesen",
-    "filename": "mesen.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Mesen.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mesen-logo.png",
     "notes": {
@@ -950,8 +950,8 @@
       "Nintendo Game Boy Color",
       "Nintendo Game Boy Advance"
     ],
-    "url": "github-release:hgbman/assets/mgba",
-    "filename": "mgba.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "mGBA.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mgba-logo.png",
@@ -972,9 +972,9 @@
     "systems": [
       "Multiple Systems"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "MVEM.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/mvem-logo.png",
     "notes": {
@@ -995,9 +995,9 @@
       "Nintendo NES",
       "Nintendo Famicom"
     ],
-    "url": "github-release:hgbman/assets/nestopia",
-    "filename": "nestopia.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Nestopia.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/nestopia-logo.png",
     "notes": {
@@ -1020,9 +1020,9 @@
       "MSX2+",
       "MSX Turbo R"
     ],
-    "url": "github-release:hgbman/assets/openmsx",
-    "filename": "openmsx.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "OpenMSX.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/openmsx-logo.png",
     "notes": {
@@ -1043,9 +1043,9 @@
       "Oric-1",
       "Oric Atmos"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Oricutron.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/oricutron-logo.png",
     "notes": {
@@ -1065,8 +1065,8 @@
     "systems": [
       "Sony PlayStation 2"
     ],
-    "url": "github-release:hgbman/assets/pcsx2",
-    "filename": "pcsx2.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "PCSX2.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/pcsx2-logo.png",
@@ -1087,9 +1087,9 @@
     "systems": [
       "Sony PlayStation 2"
     ],
-    "url": "github-release:hgbman/assets/play",
-    "filename": "play.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Play.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/play-logo.png",
     "notes": {
@@ -1109,9 +1109,9 @@
     "systems": [
       "Sony PSP"
     ],
-    "url": "github-release:hgbman/assets/ppsspp",
-    "filename": "ppsspp.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "PPSSPP.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ppsspp-logo.png",
     "notes": {
@@ -1131,9 +1131,9 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Project64.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/project64-logo.png",
     "notes": {
@@ -1155,9 +1155,9 @@
       "Nintendo Famicom",
       "Nintendo Famicom Disk System"
     ],
-    "url": "github-release:hgbman/assets/punes",
-    "filename": "punes.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "puNES.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/punes-logo.png",
     "notes": {
@@ -1177,9 +1177,9 @@
     "systems": [
       "Sega Dreamcast"
     ],
-    "url": "github-release:hgbman/assets/redream",
-    "filename": "redream.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Redream.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/redream-logo.png",
     "notes": {
@@ -1211,8 +1211,8 @@
       "PC Engine",
       "Neo Geo"
     ],
-    "url": "github-release:hgbman/assets/retroarch",
-    "filename": "retroarch.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "RetroArch.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/retroarch-logo.png",
@@ -1234,8 +1234,8 @@
     "systems": [
       "Sony PlayStation 3"
     ],
-    "url": "",
-    "filename": "",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "RPCS3.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/rpcs3-logo.png",
@@ -1256,9 +1256,9 @@
     "systems": [
       "Nintendo Switch"
     ],
-    "url": "github-release:hgbman/assets/ryujinx",
-    "filename": "ryujinx.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Ryujinx.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ryujinx-logo.png",
     "notes": {
@@ -1281,9 +1281,9 @@
       "Westwood Studios",
       "DOS Adventure"
     ],
-    "url": "github-release:hgbman/assets/scummvm",
-    "filename": "scummvm.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "ScummVM.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/scummvm.png",
     "notes": {
@@ -1304,9 +1304,9 @@
     "systems": [
       "Sony PlayStation 4"
     ],
-    "url": "github-release:hgbman/assets/shadps4",
-    "filename": "shadps4.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "shadPS4.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/shadps4-logo.png",
     "notes": {
@@ -1326,9 +1326,9 @@
     "systems": [
       "SAM Coupe"
     ],
-    "url": "github-release:hgbman/assets/simcoupe",
-    "filename": "simcoupe.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "SimCoupe.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/simcoupe-logo.png",
     "notes": {
@@ -1348,9 +1348,9 @@
     "systems": [
       "Nintendo 64"
     ],
-    "url": "github-release:hgbman/assets/simple64",
+    "url": "github-release:hgbman/assets/latest",
     "filename": "simple64.7z",
-    "extract": "zip",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/simple64-logo.png",
     "notes": {
@@ -1371,9 +1371,9 @@
       "Nintendo SNES",
       "Nintendo Super Famicom"
     ],
-    "url": "github-release:hgbman/assets/snes9x",
-    "filename": "snes9x.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Snes9x.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/snes9x-logo.png",
     "notes": {
@@ -1395,9 +1395,9 @@
       "Atari STE",
       "Atari Mega ST"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Steem.SSE.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/steemsse-logo.png",
     "notes": {
@@ -1417,9 +1417,9 @@
     "systems": [
       "Atari 2600"
     ],
-    "url": "github-release:hgbman/assets/stella",
-    "filename": "stella.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Stella.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/stella-logo.png",
     "notes": {
@@ -1439,9 +1439,9 @@
     "systems": [
       "Sega Model 3"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/SuperModel",
+    "filename": "SuperModel.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/supermodel-logo.png",
     "notes": {
@@ -1461,9 +1461,9 @@
     "systems": [
       "Sony PS Vita"
     ],
-    "url": "github-release:hgbman/assets/vita3k",
-    "filename": "vita3k.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "vita_windows-latest.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/vita3k-logo.png",
     "notes": {
@@ -1483,9 +1483,9 @@
     "systems": [
       "Virtual Pinball"
     ],
-    "url": "github-release:hgbman/assets/vpinball",
-    "filename": "vpinball.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Visual.Pinball.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/vpinball-logo.png",
     "notes": {
@@ -1507,9 +1507,9 @@
       "Interton VC 4000",
       "Hanimex Pencil II"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "WinArcadia.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/winarcadia-logo.png",
     "notes": {
@@ -1531,9 +1531,9 @@
       "Amiga CD32",
       "Amiga CDTV"
     ],
-    "url": "github-release:hgbman/assets/winuae",
-    "filename": "winuae.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "WinUAE.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/winuae-logo.png",
     "notes": {
@@ -1554,9 +1554,9 @@
       "Microsoft Xbox",
       "Sega Chihiro"
     ],
-    "url": "github-release:hgbman/assets/xemu",
-    "filename": "xemu.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Xemu.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xemu-logo.png",
     "notes": {
@@ -1576,9 +1576,9 @@
     "systems": [
       "Microsoft Xbox 360"
     ],
-    "url": "github-release:hgbman/assets/xenia",
-    "filename": "xenia.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Xenia.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xenia-logo.png",
     "notes": {
@@ -1600,9 +1600,9 @@
       "Dragon 64",
       "Tandy CoCo"
     ],
-    "url": "github-release:hgbman/assets/xroar",
-    "filename": "xroar.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Xroar.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/xroar-logo.png",
     "notes": {
@@ -1622,9 +1622,9 @@
     "systems": [
       "Sega Saturn"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Yaba.Sanshiro.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/yabasanshiro-logo.png",
     "notes": {
@@ -1645,9 +1645,9 @@
       "Commodore 16",
       "Commodore Plus/4"
     ],
-    "url": "",
-    "filename": "",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Yape.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/yape-logo.png",
     "notes": {
@@ -1667,9 +1667,9 @@
     "systems": [
       "Sega Saturn"
     ],
-    "url": "github-release:hgbman/assets/ymir",
-    "filename": "ymir.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Ymir.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ymir-logo.png",
     "notes": {
@@ -1694,9 +1694,9 @@
       "Sam Coupe",
       "Jupiter Ace"
     ],
-    "url": "github-release:hgbman/assets/zesarux",
-    "filename": "zesarux.7z",
-    "extract": "zip",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "ZEsarUX.7z",
+    "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/zesarux-logo.jpg",
     "notes": {
@@ -1717,8 +1717,8 @@
       "Multi-sistema"
     ],
     "homepage": "http://www.rlauncher.com",
-    "url": "github-release:hgbman/assets/rocketlauncher",
-    "filename": "rocketlauncher.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "RocketLauncher.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1740,8 +1740,8 @@
       "Matra-Hachette Alice 4K"
     ],
     "homepage": "http://alice32.free.fr",
-    "url": "github-release:hgbman/assets/dcalice",
-    "filename": "dcalice.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DCAlice.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1760,8 +1760,8 @@
       "Exelvision EXL 100"
     ],
     "homepage": "http://dcexel.free.fr",
-    "url": "github-release:hgbman/assets/dcexel",
-    "filename": "dcexel.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DCExel.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1782,8 +1782,8 @@
       "Interact"
     ],
     "homepage": "http://dchector.free.fr",
-    "url": "github-release:hgbman/assets/dchector",
-    "filename": "dchector.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DCHector.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1802,8 +1802,8 @@
       "Philips VG5000µ"
     ],
     "homepage": "http://dcvg5k.free.fr",
-    "url": "github-release:hgbman/assets/dcvg5k",
-    "filename": "dcvg5k.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DCVG5K.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1826,8 +1826,8 @@
       "Exidy"
     ],
     "homepage": "https://sourceforge.net/projects/dice/",
-    "url": "github-release:hgbman/assets/dice",
-    "filename": "dice.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "DICE.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
@@ -1851,8 +1851,8 @@
       "SG-1000"
     ],
     "homepage": "http://bluemsx.msxblue.com",
-    "url": "github-release:hgbman/assets/bluemsx",
-    "filename": "bluemsx.7z",
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "blueMSX.7z",
     "extract": "7z",
     "sha256": "",
     "strip_subfolder": false,
