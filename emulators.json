@@ -11,7 +11,7 @@
     "filename": "Altirra.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/altirra-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/altirra.png",
     "notes": {
       "es": "Emulador de Atari 8-bits / Atari XL/XE / Atari 5200.",
       "en": "Atari 8-bits / Atari XL/XE / Atari 5200 emulator.",
@@ -34,7 +34,7 @@
     "filename": "AppleWin.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/applewin-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/applewin.png",
     "notes": {
       "es": "Emulador de Apple II.",
       "en": "Apple II emulator.",
@@ -57,7 +57,7 @@
     "filename": "AquaLite.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/aqualite-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/AquaLite.png",
     "notes": {
       "es": "Emulador de Mattel Aquarius.",
       "en": "Mattel Aquarius emulator.",
@@ -90,7 +90,7 @@
     "filename": "Ares.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/ares-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/ares.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
       "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine emulator.",
@@ -113,7 +113,7 @@
     "filename": "Azahar.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/azahar-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/azahar.png",
     "notes": {
       "es": "Emulador de Nintendo 3DS.",
       "en": "Nintendo 3DS emulator.",
@@ -137,7 +137,7 @@
     "filename": "BeebEm.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/beebem-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/beebem.png",
     "notes": {
       "es": "Emulador de BBC Micro / BBC Master 128.",
       "en": "BBC Micro / BBC Master 128 emulator.",
@@ -161,7 +161,7 @@
     "filename": "bgbw64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/bgb-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/bgb.png",
     "notes": {
       "es": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color.",
       "en": "Nintendo Game Boy / Nintendo Game Boy Color emulator.",
@@ -185,7 +185,7 @@
     "filename": "BigPEmu.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/bigpemu-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/bigpemu.png",
     "notes": {
       "es": "Emulador de Atari Jaguar / Atari Jaguar CD.",
       "en": "Atari Jaguar / Atari Jaguar CD emulator.",
@@ -223,7 +223,7 @@
     "filename": "BizHawk.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/bizhawk-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/BizHawk.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
       "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan emulator.",
@@ -246,7 +246,7 @@
     "filename": "bsnes.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/bsnes-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/bsnes.png",
     "notes": {
       "es": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
       "en": "Nintendo SNES / Nintendo Super Famicom emulator.",
@@ -268,7 +268,7 @@
     "filename": "Cemu.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/cemu-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Cemu.png",
     "notes": {
       "es": "Emulador de Nintendo Wii U.",
       "en": "Nintendo Wii U emulator.",
@@ -291,7 +291,7 @@
     "filename": "Citra.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/citra-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/citra.png",
     "notes": {
       "es": "Emulador de Nintendo 3DS.",
       "en": "Nintendo 3DS emulator.",
@@ -314,7 +314,7 @@
     "filename": "Citron.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/citron-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/citron.png",
     "notes": {
       "es": "Emulador de Nintendo Switch.",
       "en": "Nintendo Switch emulator.",
@@ -337,7 +337,7 @@
     "filename": "Classic99.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/classic99-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/classic99.png",
     "notes": {
       "es": "Emulador de TI-99/4A.",
       "en": "TI-99/4A emulator.",
@@ -361,7 +361,7 @@
     "filename": "CxbxReloaded.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/cxbxr-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/cxbx-reloaded.png",
     "notes": {
       "es": "Emulador de Microsoft Xbox / Sega Chihiro.",
       "en": "Microsoft Xbox / Sega Chihiro emulator.",
@@ -388,7 +388,7 @@
     "filename": "demul.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/demul-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/demul.png",
     "notes": {
       "es": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru.",
       "en": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave / Sega Hikaru emulator.",
@@ -410,7 +410,7 @@
     "filename": "DeSmuME.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/desmume-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/desmume.png",
     "notes": {
       "es": "Emulador de Nintendo DS.",
       "en": "Nintendo DS emulator.",
@@ -434,7 +434,7 @@
     "filename": "Dolphin-x64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/dolphin-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Dolphin-x64.png",
     "notes": {
       "es": "Emulador de Nintendo GameCube / Nintendo Wii.",
       "en": "Nintendo GameCube / Nintendo Wii emulator.",
@@ -459,7 +459,7 @@
     "filename": "DOSBox.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/dosbox-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/dosbox.png",
     "notes": {
       "es": "Emulador de MS-DOS / Windows 3.x / Windows 95.",
       "en": "MS-DOS / Windows 3.x / Windows 95 emulator.",
@@ -482,7 +482,7 @@
     "filename": "Duckstation.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/duckstation-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/DuckStation.png",
     "notes": {
       "es": "Emulador de Sony PlayStation.",
       "en": "Sony PlayStation emulator.",
@@ -504,7 +504,7 @@
     "filename": "Eden.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/eden-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/eden.png",
     "notes": {
       "es": "Emulador de Nintendo Switch.",
       "en": "Nintendo Switch emulator.",
@@ -528,7 +528,7 @@
     "filename": "EKA2L1-Windows-x86_64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/eka2l1-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/eka2l1.png",
     "notes": {
       "es": "Emulador de Nokia N-Gage / Symbian OS.",
       "en": "Nokia N-Gage / Symbian OS emulator.",
@@ -552,7 +552,7 @@
     "filename": "Fceux.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/fceux-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Fceux.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo Famicom Disk System.",
       "en": "Nintendo NES / Nintendo Famicom Disk System emulator.",
@@ -577,7 +577,7 @@
     "filename": "flycast-win64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/flycast-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Flycast.png",
     "notes": {
       "es": "Emulador de Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave.",
       "en": "Sega Dreamcast / Sega NAOMI / Sega NAOMI 2 / Sega Atomiswave emulator.",
@@ -599,7 +599,7 @@
     "filename": "Future.Pinball.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/fpinball-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/fpinball.png",
     "notes": {
       "es": "Emulador de Virtual Pinball.",
       "en": "Virtual Pinball emulator.",
@@ -622,7 +622,7 @@
     "filename": "Fuse.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/fuse-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/fuse.png",
     "notes": {
       "es": "Emulador de Sinclair ZX Spectrum.",
       "en": "Sinclair ZX Spectrum emulator.",
@@ -645,7 +645,7 @@
     "filename": "Genieous.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/genieous-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/genieous.png",
     "notes": {
       "es": "Emulador de EACA EG2000 Colour Genie.",
       "en": "EACA EG2000 Colour Genie emulator.",
@@ -668,7 +668,7 @@
     "filename": "Gopher64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/gopher64-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/gopher64.png",
     "notes": {
       "es": "Emulador de Nintendo 64.",
       "en": "Nintendo 64 emulator.",
@@ -694,7 +694,7 @@
     "filename": "GZDoom.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/gzdoom-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/gzdoom.png",
     "notes": {
       "es": "Emulador de Doom / Doom II / Heretic / Hexen / Strife.",
       "en": "Doom / Doom II / Heretic / Hexen / Strife emulator.",
@@ -720,7 +720,7 @@
     "filename": "Hatari.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/hatari-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/hatari.png",
     "notes": {
       "es": "Emulador de Atari ST / Atari STE / Atari TT / Atari Falcon.",
       "en": "Atari ST / Atari STE / Atari TT / Atari Falcon emulator.",
@@ -743,7 +743,7 @@
     "filename": "Hypseus.Singe.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/hypseus-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/hypseus.png",
     "notes": {
       "es": "Emulador de Laserdisc Arcade.",
       "en": "Laserdisc Arcade emulator.",
@@ -766,7 +766,7 @@
     "filename": "Jynx.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/jynx-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/jynx.png",
     "notes": {
       "es": "Emulador de Camputers Lynx.",
       "en": "Camputers Lynx emulator.",
@@ -789,7 +789,7 @@
     "filename": "Lime3DS.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/lime3ds-logo.svg",
+    "logo": "https://hypergamebase.fyi/emulators/media/lime3ds.png",
     "notes": {
       "es": "Emulador de Nintendo 3DS.",
       "en": "Nintendo 3DS emulator.",
@@ -812,7 +812,7 @@
     "filename": "Sega.Model.2.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/m2emulator-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/m2emulator.png",
     "notes": {
       "es": "Emulador de Sega Model 2.",
       "en": "Sega Model 2 emulator.",
@@ -844,7 +844,7 @@
     "filename": "MAME.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/mame-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/MAME.png",
     "notes": {
       "es": "Multiemulador de referencia para arcade, recreativas y hardware histórico. Más de 40.000 sistemas y variantes documentadas.",
       "en": "Reference multi-emulator for arcade, coin-op and historical hardware. Over 40,000 documented systems and variants.",
@@ -877,7 +877,7 @@
     "filename": "Mednafen.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/mednafen-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Mednafen.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
       "en": "Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy emulator.",
@@ -902,7 +902,7 @@
     "filename": "Meka.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/meka-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/meka.png",
     "notes": {
       "es": "Emulador de Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision.",
       "en": "Sega Master System / Sega Game Gear / Sega SG-1000 / ColecoVision emulator.",
@@ -926,7 +926,7 @@
     "filename": "melonDS.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/melonds-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/melonds.png",
     "notes": {
       "es": "Emulador de Nintendo DS / Nintendo DSi.",
       "en": "Nintendo DS / Nintendo DSi emulator.",
@@ -955,7 +955,7 @@
     "filename": "Mesen.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/mesen-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Mesen.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
       "en": "Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine emulator.",
@@ -979,7 +979,7 @@
     "filename": "mGBA.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/mgba-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/mgba.png",
     "notes": {
       "es": "Emulador de Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance.",
       "en": "Nintendo Game Boy / Nintendo Game Boy Color / Nintendo Game Boy Advance emulator.",
@@ -1002,7 +1002,7 @@
     "filename": "MVEM.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/mvem-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/MVEM.png",
     "notes": {
       "es": "Emulador de Multiple Systems.",
       "en": "Multiple Systems emulator.",
@@ -1025,7 +1025,7 @@
     "filename": "Nestopia.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/nestopia-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Nestopia.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo Famicom.",
       "en": "Nintendo NES / Nintendo Famicom emulator.",
@@ -1050,7 +1050,7 @@
     "filename": "OpenMSX.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/openmsx-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/openMSX.png",
     "notes": {
       "es": "Emulador de MSX / MSX2 / MSX2+ / MSX Turbo R.",
       "en": "MSX / MSX2 / MSX2+ / MSX Turbo R emulator.",
@@ -1073,7 +1073,7 @@
     "filename": "Oricutron.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/oricutron-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/oricutron.png",
     "notes": {
       "es": "Emulador de Oric-1 / Oric Atmos.",
       "en": "Oric-1 / Oric Atmos emulator.",
@@ -1096,7 +1096,7 @@
     "filename": "PCSX2.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/pcsx2-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/PCSX2.png",
     "notes": {
       "es": "Emulador de Sony PlayStation 2.",
       "en": "Sony PlayStation 2 emulator.",
@@ -1118,7 +1118,7 @@
     "filename": "Play.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/play-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/play.png",
     "notes": {
       "es": "Emulador de Sony PlayStation 2.",
       "en": "Sony PlayStation 2 emulator.",
@@ -1140,7 +1140,7 @@
     "filename": "PPSSPP.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/ppsspp-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/ppsspp.png",
     "notes": {
       "es": "Emulador de Sony PSP.",
       "en": "Sony PSP emulator.",
@@ -1163,7 +1163,7 @@
     "filename": "Project64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/project64-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/project64.png",
     "notes": {
       "es": "Emulador de Nintendo 64.",
       "en": "Nintendo 64 emulator.",
@@ -1188,7 +1188,7 @@
     "filename": "puNES.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/punes-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/punes.png",
     "notes": {
       "es": "Emulador de Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System.",
       "en": "Nintendo NES / Nintendo Famicom / Nintendo Famicom Disk System emulator.",
@@ -1211,7 +1211,7 @@
     "filename": "Redream.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/redream-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Redream.png",
     "notes": {
       "es": "Emulador de Sega Dreamcast.",
       "en": "Sega Dreamcast emulator.",
@@ -1245,7 +1245,7 @@
     "filename": "RetroArch.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/retroarch-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/RetroArch.png",
     "notes": {
       "es": "Frontend multiemulador que unifica más de 100 núcleos libretro bajo una interfaz común. Los núcleos se descargan desde dentro de RetroArch.",
       "en": "Multi-emulator frontend unifying over 100 libretro cores under a common interface. Cores are downloaded from within RetroArch.",
@@ -1268,7 +1268,7 @@
     "filename": "RPCS3.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/rpcs3-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/rpcs3.png",
     "notes": {
       "es": "Emulador de Sony PlayStation 3.",
       "en": "Sony PlayStation 3 emulator.",
@@ -1291,7 +1291,7 @@
     "filename": "Ryujinx.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/ryujinx-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/ryujinx.png",
     "notes": {
       "es": "Emulador de Nintendo Switch.",
       "en": "Nintendo Switch emulator.",
@@ -1317,7 +1317,7 @@
     "filename": "ScummVM.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/scummvm.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/ScummVM.png",
     "notes": {
       "es": "Emulador de LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure.",
       "en": "LucasArts Adventure / Sierra Adventure / Westwood Studios / DOS Adventure emulator.",
@@ -1340,7 +1340,7 @@
     "filename": "shadPS4.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/shadps4-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/shadps4.png",
     "notes": {
       "es": "Emulador de Sony PlayStation 4.",
       "en": "Sony PlayStation 4 emulator.",
@@ -1363,7 +1363,7 @@
     "filename": "SimCoupe.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/simcoupe-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/SimCoupe.png",
     "notes": {
       "es": "Emulador de SAM Coupe.",
       "en": "SAM Coupe emulator.",
@@ -1385,7 +1385,7 @@
     "filename": "simple64.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/simple64-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/simple64.png",
     "notes": {
       "es": "Emulador de Nintendo 64.",
       "en": "Nintendo 64 emulator.",
@@ -1409,7 +1409,7 @@
     "filename": "Snes9x.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/snes9x-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Snes9x.png",
     "notes": {
       "es": "Emulador de Nintendo SNES / Nintendo Super Famicom.",
       "en": "Nintendo SNES / Nintendo Super Famicom emulator.",
@@ -1433,7 +1433,7 @@
     "filename": "Steem.SSE.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/steemsse-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/steemsse.png",
     "notes": {
       "es": "Emulador de Atari ST / Atari STE / Atari Mega ST.",
       "en": "Atari ST / Atari STE / Atari Mega ST emulator.",
@@ -1456,7 +1456,7 @@
     "filename": "Stella.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/stella-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/stella.png",
     "notes": {
       "es": "Emulador de Atari 2600.",
       "en": "Atari 2600 emulator.",
@@ -1479,7 +1479,7 @@
     "filename": "SuperModel.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/supermodel-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/supermodel.png",
     "notes": {
       "es": "Emulador de Sega Model 3.",
       "en": "Sega Model 3 emulator.",
@@ -1502,7 +1502,7 @@
     "filename": "vita_windows-latest.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/vita3k-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Vita3K.png",
     "notes": {
       "es": "Emulador de Sony PS Vita.",
       "en": "Sony PS Vita emulator.",
@@ -1524,7 +1524,7 @@
     "filename": "Visual.Pinball.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/vpinball-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/vpinball.png",
     "notes": {
       "es": "Emulador de Virtual Pinball.",
       "en": "Virtual Pinball emulator.",
@@ -1549,7 +1549,7 @@
     "filename": "WinArcadia.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/winarcadia-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/winarcadia.png",
     "notes": {
       "es": "Emulador de Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II.",
       "en": "Emerson Arcadia 2001 / Interton VC 4000 / Hanimex Pencil II emulator.",
@@ -1574,7 +1574,7 @@
     "filename": "WinUAE.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/winuae-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/WinUAE.png",
     "notes": {
       "es": "Emulador de Commodore Amiga / Amiga CD32 / Amiga CDTV.",
       "en": "Commodore Amiga / Amiga CD32 / Amiga CDTV emulator.",
@@ -1597,7 +1597,7 @@
     "filename": "Xemu.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/xemu-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/xemu.png",
     "notes": {
       "es": "Emulador de Microsoft Xbox / Sega Chihiro.",
       "en": "Microsoft Xbox / Sega Chihiro emulator.",
@@ -1620,7 +1620,7 @@
     "filename": "Xenia.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/xenia-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/Xenia.png",
     "notes": {
       "es": "Emulador de Microsoft Xbox 360.",
       "en": "Microsoft Xbox 360 emulator.",
@@ -1644,7 +1644,7 @@
     "filename": "Xroar.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/xroar-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/xroar.png",
     "notes": {
       "es": "Emulador de Dragon 32 / Dragon 64 / Tandy CoCo.",
       "en": "Dragon 32 / Dragon 64 / Tandy CoCo emulator.",
@@ -1667,7 +1667,7 @@
     "filename": "Yaba.Sanshiro.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/yabasanshiro-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/yabasanshiro.png",
     "notes": {
       "es": "Emulador de Sega Saturn.",
       "en": "Sega Saturn emulator.",
@@ -1691,7 +1691,7 @@
     "filename": "Yape.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/yape-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/yape.png",
     "notes": {
       "es": "Emulador de Commodore 16 / Commodore Plus/4.",
       "en": "Commodore 16 / Commodore Plus/4 emulator.",
@@ -1714,7 +1714,7 @@
     "filename": "Ymir.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/ymir-logo.png",
+    "logo": "https://hypergamebase.fyi/emulators/media/ymir.png",
     "notes": {
       "es": "Emulador de Sega Saturn.",
       "en": "Sega Saturn emulator.",
@@ -1742,7 +1742,7 @@
     "filename": "ZEsarUX.7z",
     "extract": "7z",
     "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/zesarux-logo.jpg",
+    "logo": "https://hypergamebase.fyi/emulators/media/ZEsarUX.png",
     "notes": {
       "es": "Emulador de Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
       "en": "Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace emulator.",
@@ -1774,7 +1774,8 @@
       "fr": "Frontend multi-émulateur. Requis pour lancer des jeux depuis HyperGameBase.",
       "it": "Frontend multiemulatore. Necessario per avviare giochi da HyperGameBase."
     },
-    "dest_relative": "RocketLauncher"
+    "dest_relative": "RocketLauncher",
+    "logo": "https://hypergamebase.fyi/emulators/media/RocketLauncher.png"
   },
   {
     "name": "dcalice",
@@ -1798,7 +1799,9 @@
       "fr": "Émulateur Matra-Hachette Alice 32 / Alice 90 / Alice 4K / Tandy MC10.",
       "it": "Emulatore Matra-Hachette Alice 32 / Alice 90 / Alice 4K / Tandy MC10."
     },
-    "install_name": "DCAlice"
+    "install_name": "DCAlice",
+    "display_name": "DCAlice",
+    "logo": "https://hypergamebase.fyi/emulators/media/dcalice.png"
   },
   {
     "name": "dcexel",
@@ -1819,7 +1822,9 @@
       "fr": "Émulateur Exelvision EXL 100.",
       "it": "Emulatore Exelvision EXL 100."
     },
-    "install_name": "DCExel"
+    "install_name": "DCExel",
+    "display_name": "DCExel",
+    "logo": "https://hypergamebase.fyi/emulators/media/dcexel.png"
   },
   {
     "name": "dchector",
@@ -1842,7 +1847,9 @@
       "fr": "Émulateur Hector HRX / Victor Lambda / Interact.",
       "it": "Emulatore Hector HRX / Victor Lambda / Interact."
     },
-    "install_name": "DCHector"
+    "install_name": "DCHector",
+    "display_name": "DCHector",
+    "logo": "https://hypergamebase.fyi/emulators/media/dchector.png"
   },
   {
     "name": "dcvg5k",
@@ -1863,7 +1870,9 @@
       "fr": "Émulateur Philips VG5000µ.",
       "it": "Emulatore Philips VG5000µ."
     },
-    "install_name": "DCVG5K"
+    "install_name": "DCVG5K",
+    "display_name": "DCVG5K",
+    "logo": "https://hypergamebase.fyi/emulators/media/dcvg5k.png"
   },
   {
     "name": "DICE",
@@ -1887,7 +1896,8 @@
       "de": "Emulator für CPU-lose Arcade-Hardware der 70er Jahre (Pong u. ä.). Simuliert diskrete Logikschaltkreise.",
       "fr": "Émulateur d'arcades sans CPU des années 70 (Pong et similaires). Simule des circuits logiques discrets.",
       "it": "Emulatore di arcade senza CPU degli anni 70 (Pong e simili). Simula circuiti logici discreti."
-    }
+    },
+    "logo": "https://hypergamebase.fyi/emulators/media/DICE.png"
   },
   {
     "name": "blueMSX",
@@ -1912,6 +1922,7 @@
       "de": "MSX / MSX2 / MSX2+ / MSX Turbo R / ColecoVision / SG-1000-Emulator.",
       "fr": "Émulateur MSX / MSX2 / MSX2+ / MSX Turbo R / ColecoVision / SG-1000.",
       "it": "Emulatore MSX / MSX2 / MSX2+ / MSX Turbo R / ColecoVision / SG-1000."
-    }
+    },
+    "logo": "https://hypergamebase.fyi/emulators/media/blueMSX.png"
   }
 ]
