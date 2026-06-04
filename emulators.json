@@ -301,17 +301,17 @@
       "it": "Emulatore Nintendo 3DS."
     },
     "sha256": "",
-    "homepage": "https://github.com/PabloMK7/citra",
+    "homepage": "",
     "install_name": "Citra"
   },
   {
     "name": "citron",
-    "display_name": "Citron",
+    "display_name": "Citron Neo",
     "systems": [
       "Nintendo Switch"
     ],
     "url": "github-release:hgbman/assets/latest",
-    "filename": "Citron.7z",
+    "filename": "Citron.Neo.7z",
     "extract": "7z",
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/citron.png",
@@ -324,7 +324,7 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://git.citron-emu.org/Citron/Citron",
+    "homepage": "https://citron-neo.github.io/",
     "install_name": "Citron"
   },
   {
@@ -1283,7 +1283,7 @@
   },
   {
     "name": "ryujinx",
-    "display_name": "Ryujinx (Ryubing)",
+    "display_name": "Ryujinx",
     "systems": [
       "Nintendo Switch"
     ],
@@ -1659,7 +1659,7 @@
   },
   {
     "name": "yabasanshiro",
-    "display_name": "YabaSanshiro",
+    "display_name": "Yaba Sanshiro",
     "systems": [
       "Sega Saturn"
     ],
