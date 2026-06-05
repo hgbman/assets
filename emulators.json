@@ -1747,7 +1747,6 @@
       "de": "Multi-Emulator-Startmodul. Erforderlich für HyperGameBase. Verwaltet Emulatoren, Bezels, Pause-Screen, Überblendungen und systemspezifische Controller-Profile — der technische Kern Ihrer Sammlung.",
       "fr": "Moteur de lancement multi-émulateur. Requis pour HyperGameBase. Gère les émulateurs, bezels, pause screen, fondus et profils de manettes par système — le cœur technique de votre collection.",
       "it": "Motore di avvio multiemulatore. Necessario per HyperGameBase. Gestisce emulatori, bezel, pause screen, dissolvenze e profili controller per sistema — il nucleo tecnico della tua collezione."
-}
     },
     "dest_relative": "RocketLauncher",
     "logo": "https://hypergamebase.fyi/emulators/media/RocketLauncher.png",
