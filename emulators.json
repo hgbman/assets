@@ -324,7 +324,7 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://citron-neo.github.io/",
+    "homepage": "https://git.citron-emu.org/Citron/Citron",
     "install_name": "Citron"
   },
   {
@@ -730,7 +730,7 @@
       "it": "Emulatore Atari ST / Atari STE / Atari TT / Atari Falcon."
     },
     "sha256": "",
-    "homepage": "https://hatari.tuxfamily.org",
+    "homepage": "https://www.hatari-emu.org/",
     "install_name": "Hatari"
   },
   {
@@ -780,31 +780,8 @@
     "install_name": "Jynx"
   },
   {
-    "name": "lime3ds",
-    "display_name": "Lime3DS",
-    "systems": [
-      "Nintendo 3DS"
-    ],
-    "url": "github-release:hgbman/assets/latest",
-    "filename": "Lime3DS.7z",
-    "extract": "7z",
-    "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/lime3ds.png",
-    "notes": {
-      "es": "Emulador de Nintendo 3DS.",
-      "en": "Nintendo 3DS emulator.",
-      "pt": "Emulador de Nintendo 3DS.",
-      "de": "Nintendo 3DS-Emulator.",
-      "fr": "Émulateur Nintendo 3DS.",
-      "it": "Emulatore Nintendo 3DS."
-    },
-    "sha256": "",
-    "homepage": "https://github.com/azahar-emu/azahar",
-    "install_name": "Lime3DS"
-  },
-  {
     "name": "m2emulator",
-    "display_name": "M2Emulator",
+    "display_name": "Model 2 Emulator",
     "systems": [
       "Sega Model 2"
     ],
@@ -822,7 +799,7 @@
       "it": "Emulatore Sega Model 2."
     },
     "sha256": "",
-    "homepage": "http://nebula.emulatronia.com",
+    "homepage": "",
     "install_name": "Sega Model 2"
   },
   {
@@ -834,11 +811,8 @@
       "CPS1",
       "CPS2",
       "CPS3",
-      "Sega Model 3",
-      "Sega Chihiro",
       "Sega NAOMI",
-      "Konami System",
-      "Taito Type X"
+      "Konami System"
     ],
     "url": "github-release:hgbman/assets/latest",
     "filename": "MAME.7z",
@@ -846,12 +820,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/MAME.png",
     "notes": {
-      "es": "Multiemulador de referencia para arcade, recreativas y hardware histórico. Más de 40.000 sistemas y variantes documentadas.",
-      "en": "Reference multi-emulator for arcade, coin-op and historical hardware. Over 40,000 documented systems and variants.",
-      "pt": "Multiemulador de referência para arcade e hardware histórico. Mais de 40.000 sistemas e variantes documentados.",
-      "de": "Referenz-Multiemulator für Arcade und historische Hardware. Über 40.000 dokumentierte Systeme und Varianten.",
-      "fr": "Multiémulateur de référence pour arcade et matériel historique. Plus de 40 000 systèmes et variantes documentés.",
-      "it": "Multiemulatore di riferimento per arcade e hardware storico. Oltre 40.000 sistemi e varianti documentati."
+      "es": "Multiemulador de referencia para arcade, recreativas y hardware histórico.",
+      "en": "Reference multi-emulator for arcade, coin-op and historical hardware.",
+      "pt": "Multiemulador de referência para arcade e hardware histórico.",
+      "de": "Referenz-Multiemulator für Arcade und historische Hardware.",
+      "fr": "Multiémulateur de référence pour arcade et matériel historique.",
+      "it": "Multiemulatore di riferimento per arcade e hardware storico."
     },
     "sha256": "",
     "homepage": "https://www.mamedev.org"
@@ -1301,7 +1275,7 @@
       "it": "Emulatore Nintendo Switch."
     },
     "sha256": "",
-    "homepage": "https://github.com/Kenji-NX/Releases",
+    "homepage": "https://git.ryujinx.app/ryubing/canary/releases",
     "install_name": "Ryujinx"
   },
   {
@@ -1489,7 +1463,7 @@
       "it": "Emulatore Sega Model 3."
     },
     "sha256": "",
-    "homepage": "https://supermodel3.com",
+    "homepage": "https://github.com/trzy/Supermodel",
     "install_name": "SuperModel"
   },
   {
@@ -1701,7 +1675,7 @@
       "it": "Emulatore Commodore 16 / Commodore Plus/4."
     },
     "sha256": "",
-    "homepage": "http://yape.plus4.net",
+    "homepage": "http://yape.homeserver.hu/",
     "install_name": "Yape"
   },
   {
