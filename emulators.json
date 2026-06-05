@@ -1749,7 +1749,34 @@
       "it": "Frontend multiemulatore. Necessario per avviare giochi da HyperGameBase."
     },
     "dest_relative": "RocketLauncher",
-    "logo": "https://hypergamebase.fyi/emulators/media/RocketLauncher.png"
+    "logo": "https://hypergamebase.fyi/emulators/media/RocketLauncher.png",
+    "featured": true
+  },
+  {
+    "name": "backglass_media",
+    "display_name": "Backglass Media Pack",
+    "systems": [
+      "Virtual Pinball"
+    ],
+    "url": "github-release:hgbman/assets/latest",
+    "filename": "Backglass.Media.7z",
+    "extract": "7z",
+    "version": "",
+    "logo": "https://hypergamebase.fyi/emulators/media/backglass_media.png",
+    "notes": {
+      "es": "Imágenes de backglass para todos los sistemas. Se instalan en la carpeta Media de HyperGameBase.",
+      "en": "Backglass images for all systems. Installed in HyperGameBase's Media folder.",
+      "pt": "Imagens de backglass para todos os sistemas. Instaladas na pasta Media do HyperGameBase.",
+      "de": "Backglass-Bilder für alle Systeme. Werden im Media-Ordner von HyperGameBase installiert.",
+      "fr": "Images de backglass pour tous les systèmes. Installées dans le dossier Media de HyperGameBase.",
+      "it": "Immagini di backglass per tutti i sistemi. Installate nella cartella Media di HyperGameBase."
+    },
+    "sha256": "",
+    "strip_subfolder": false,
+    "homepage": "https://hypergamebase.fyi",
+    "dest_relative": "Media/Backglass",
+    "install_name": "Backglass Media",
+    "featured": true
   },
   {
     "name": "dcalice",
