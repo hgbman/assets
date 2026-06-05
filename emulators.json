@@ -92,12 +92,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ares.png",
     "notes": {
-      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
-      "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine emulator.",
-      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
-      "de": "Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine-Emulator.",
-      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine.",
-      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo 64 / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / Neo Geo / Atari 2600 / Nintendo Game Boy / Nintendo GBA / PC Engine."
+      "es": "Emulador de múltiples sistemas.",
+      "en": "Multi-system emulator.",
+      "pt": "Emulador de múltiplos sistemas.",
+      "de": "Mehrsystem-Emulator.",
+      "fr": "Émulateur multi-systèmes.",
+      "it": "Emulatore multisistemico."
     },
     "sha256": "",
     "homepage": "https://ares-emu.net",
@@ -225,12 +225,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/BizHawk.png",
     "notes": {
-      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
-      "en": "Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan emulator.",
-      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
-      "de": "Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan-Emulator.",
-      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan.",
-      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo 64 / Nintendo Game Boy / Nintendo GBA / Nintendo DS / Sega Master System / Sega Mega Drive / Sega Saturn / Sony PlayStation / PC Engine / Atari 2600 / Atari 7800 / Atari Lynx / Neo Geo Pocket / WonderSwan."
+      "es": "Emulador de múltiples sistemas.",
+      "en": "Multi-system emulator.",
+      "pt": "Emulador de múltiplos sistemas.",
+      "de": "Mehrsystem-Emulator.",
+      "fr": "Émulateur multi-systèmes.",
+      "it": "Emulatore multisistemico."
     },
     "sha256": "",
     "homepage": "https://tasvideos.org/BizHawk"
@@ -853,12 +853,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/Mednafen.png",
     "notes": {
-      "es": "Emulador de Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
-      "en": "Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy emulator.",
-      "pt": "Emulador de Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
-      "de": "Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy-Emulator.",
-      "fr": "Émulateur Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy.",
-      "it": "Emulatore Nintendo NES / Nintendo SNES / Nintendo GB / Nintendo GBA / Sony PlayStation / Sega Saturn / PC Engine / PC-FX / Atari Lynx / Neo Geo Pocket / WonderSwan / Virtual Boy."
+      "es": "Emulador de múltiples sistemas.",
+      "en": "Multi-system emulator.",
+      "pt": "Emulador de múltiplos sistemas.",
+      "de": "Mehrsystem-Emulator.",
+      "fr": "Émulateur multi-systèmes.",
+      "it": "Emulatore multisistemico."
     },
     "sha256": "",
     "homepage": "https://mednafen.github.io"
@@ -931,12 +931,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/Mesen.png",
     "notes": {
-      "es": "Emulador de Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
-      "en": "Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine emulator.",
-      "pt": "Emulador de Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
-      "de": "Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine-Emulator.",
-      "fr": "Émulateur Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine.",
-      "it": "Emulatore Nintendo NES / Nintendo FDS / Nintendo SNES / Nintendo Game Boy / Nintendo GBC / Nintendo Game Boy Advance / Sega Master System / PC Engine."
+      "es": "Emulador de múltiples sistemas.",
+      "en": "Multi-system emulator.",
+      "pt": "Emulador de múltiplos sistemas.",
+      "de": "Mehrsystem-Emulator.",
+      "fr": "Émulateur multi-systèmes.",
+      "it": "Emulatore multisistemico."
     },
     "sha256": "",
     "homepage": "https://www.mesen.ca"
@@ -970,7 +970,7 @@
     "name": "MVEM",
     "display_name": "MVEM",
     "systems": [
-      "Multiple Systems"
+      "Milton Bradley Microvision"
     ],
     "url": "github-release:hgbman/assets/latest",
     "filename": "MVEM.7z",
@@ -978,12 +978,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/MVEM.png",
     "notes": {
-      "es": "Emulador de Multiple Systems.",
-      "en": "Multiple Systems emulator.",
-      "pt": "Emulador de Multiple Systems.",
-      "de": "Multiple Systems-Emulator.",
-      "fr": "Émulateur Multiple Systems.",
-      "it": "Emulatore Multiple Systems."
+      "es": "Emulador de Milton Bradley Microvision.",
+      "en": "Milton Bradley Microvision emulator.",
+      "pt": "Emulador de Milton Bradley Microvision.",
+      "de": "Milton Bradley Microvision-Emulator.",
+      "fr": "Émulateur Milton Bradley Microvision.",
+      "it": "Emulatore Milton Bradley Microvision."
     },
     "sha256": "",
     "homepage": ""
@@ -1718,12 +1718,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/ZEsarUX.png",
     "notes": {
-      "es": "Emulador de Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
-      "en": "Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace emulator.",
-      "pt": "Emulador de Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
-      "de": "Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace-Emulator.",
-      "fr": "Émulateur Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace.",
-      "it": "Emulatore Sinclair ZX Spectrum / ZX80 / ZX81 / Amstrad CPC / Sam Coupe / Jupiter Ace."
+      "es": "Emulador de múltiples sistemas.",
+      "en": "Multi-system emulator.",
+      "pt": "Emulador de múltiplos sistemas.",
+      "de": "Mehrsystem-Emulator.",
+      "fr": "Émulateur multi-systèmes.",
+      "it": "Emulatore multisistemico."
     },
     "sha256": "",
     "strip_subfolder": true,
