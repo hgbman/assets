@@ -1772,9 +1772,9 @@
       "it": "Pack di immagini per il 2° monitor. Mostra l'artwork originale di ogni macchina (backglass pinball, marquee arcade e simili)."
     },
     "sha256": "",
-    "strip_subfolder": false,
+    "strip_subfolder": true,
     "homepage": "https://hypergamebase.fyi",
-    "dest_relative": "Media/Backglass",
+    "dest_relative": "Media",
     "install_name": "Backglass Media",
     "featured_level": 2
   },
