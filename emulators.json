@@ -1741,12 +1741,13 @@
     "sha256": "",
     "strip_subfolder": false,
     "notes": {
-      "es": "Frontend multiemulador. Requerido para lanzar juegos desde HyperGameBase.",
-      "en": "Multi-emulator frontend. Required to launch games from HyperGameBase.",
-      "pt": "Frontend multiemulador. Necessário para iniciar jogos pelo HyperGameBase.",
-      "de": "Multi-Emulator-Frontend. Erforderlich, um Spiele über HyperGameBase zu starten.",
-      "fr": "Frontend multi-émulateur. Requis pour lancer des jeux depuis HyperGameBase.",
-      "it": "Frontend multiemulatore. Necessario per avviare giochi da HyperGameBase."
+      "es": "Motor de lanzamiento multiemulador. Requerido para lanzar juegos desde HyperGameBase. Gestiona emuladores, bezels, pause screen, fade y controllers por sistema — el núcleo técnico que hace funcionar tu colección.",
+      "en": "Multi-emulator launching engine. Required to launch games from HyperGameBase. Handles emulator management, bezels, pause screen, fade transitions and per-system controller profiles — the technical core that powers your collection.",
+      "pt": "Motor de lançamento multiemulador. Necessário para iniciar jogos pelo HyperGameBase. Gerencia emuladores, bezels, pause screen, fades e perfis de controle por sistema — o núcleo técnico que faz sua coleção funcionar.",
+      "de": "Multi-Emulator-Startmodul. Erforderlich für HyperGameBase. Verwaltet Emulatoren, Bezels, Pause-Screen, Überblendungen und systemspezifische Controller-Profile — der technische Kern Ihrer Sammlung.",
+      "fr": "Moteur de lancement multi-émulateur. Requis pour HyperGameBase. Gère les émulateurs, bezels, pause screen, fondus et profils de manettes par système — le cœur technique de votre collection.",
+      "it": "Motore di avvio multiemulatore. Necessario per HyperGameBase. Gestisce emulatori, bezel, pause screen, dissolvenze e profili controller per sistema — il nucleo tecnico della tua collezione."
+}
     },
     "dest_relative": "RocketLauncher",
     "logo": "https://hypergamebase.fyi/emulators/media/RocketLauncher.png",
