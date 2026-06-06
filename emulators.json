@@ -1732,7 +1732,7 @@
   {
     "name": "RocketLauncher",
     "systems": [
-      "Multi-sistema"
+      ""
     ],
     "homepage": "http://www.rlauncher.com",
     "url": "github-release:hgbman/assets/latest",
@@ -1756,7 +1756,7 @@
     "name": "backglass_media",
     "display_name": "Backglass & Marquee Media",
     "systems": [
-      "All systems"
+      ""
     ],
     "url": "github-release:hgbman/assets/backglass",
     "filename": "Media.7z",
