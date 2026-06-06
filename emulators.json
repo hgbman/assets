@@ -428,7 +428,8 @@
     "display_name": "Dolphin",
     "systems": [
       "Nintendo GameCube",
-      "Nintendo Wii"
+      "Nintendo Wii",
+      "Sega Triforce"
     ],
     "url": "github-release:hgbman/assets/latest",
     "filename": "Dolphin-x64.7z",
