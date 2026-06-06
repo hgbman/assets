@@ -436,12 +436,12 @@
     "version": "",
     "logo": "https://hypergamebase.fyi/emulators/media/Dolphin-x64.png",
     "notes": {
-      "es": "Emulador de Nintendo GameCube / Nintendo Wii.",
-      "en": "Nintendo GameCube / Nintendo Wii emulator.",
-      "pt": "Emulador de Nintendo GameCube / Nintendo Wii.",
-      "de": "Nintendo GameCube / Nintendo Wii-Emulator.",
-      "fr": "Émulateur Nintendo GameCube / Nintendo Wii.",
-      "it": "Emulatore Nintendo GameCube / Nintendo Wii."
+      "es": "Emulador de Nintendo GameCube / Nintendo Wii / Sega Triforce.",
+      "en": "Nintendo GameCube / Nintendo Wii emulator / Sega Triforce.",
+      "pt": "Emulador de Nintendo GameCube / Nintendo Wii / Sega Triforce.",
+      "de": "Nintendo GameCube / Nintendo Wii-Emulator / Sega Triforce.",
+      "fr": "Émulateur Nintendo GameCube / Nintendo Wii / Sega Triforce.",
+      "it": "Emulatore Nintendo GameCube / Nintendo Wii / Sega Triforce."
     },
     "sha256": "",
     "strip_subfolder": true,
