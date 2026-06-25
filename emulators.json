@@ -1754,32 +1754,6 @@
     "featured_level": 1
   },
   {
-    "name": "backglass_media",
-    "display_name": "Backglass & Marquee Media",
-    "systems": [
-      ""
-    ],
-    "url": "github-release:hgbman/assets/backglass",
-    "filename": "Media.7z",
-    "extract": "7z",
-    "version": "",
-    "logo": "https://hypergamebase.fyi/emulators/media/backglass_media.png",
-    "notes": {
-      "es": "Pack de imágenes para el 2º monitor. Muestra el artwork original de cada máquina (backglass de pinball, marquee de arcade y similares).",
-      "en": "Image pack for the 2nd monitor. Displays the original artwork of each machine (pinball backglass, arcade marquee and similar).",
-      "pt": "Pack de imagens para o 2º monitor. Exibe o artwork original de cada máquina (backglass de pinball, marquee de arcade e similares).",
-      "de": "Bildpaket für den 2. Monitor. Zeigt das originale Artwork jeder Maschine (Pinball-Backglass, Arcade-Marquee u. ä.).",
-      "fr": "Pack d'images pour le 2e moniteur. Affiche l'artwork original de chaque machine (backglass flipper, marquee arcade et similaires).",
-      "it": "Pack di immagini per il 2° monitor. Mostra l'artwork originale di ogni macchina (backglass pinball, marquee arcade e simili)."
-    },
-    "sha256": "",
-    "strip_subfolder": true,
-    "homepage": "https://hypergamebase.fyi",
-    "dest_relative": "Media",
-    "install_name": "Backglass Media",
-    "featured_level": 2
-  },
-  {
     "name": "dcalice",
     "systems": [
       "Matra-Hachette Alice 32",
